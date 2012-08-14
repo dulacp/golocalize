@@ -2,181 +2,181 @@
 "%@ (%d), " = "%1$@ (%2$d), ";
 
 /* Generated Report Link email subject */
-"%@ - Full Report" = "%@ - Full Report";
+"%@ - Full Report" = "%@ - Vollständiger Report";
 
 /* Summary email subject */
-"%@ - Summary Email" = "%@ - Summary Email";
+"%@ - Summary Email" = "%@ - Zusammenfassungs-Email";
 
 /* alert message (for the currency exchange rate) */
 "%@ = ? %@" = "%1$@ = ? %2$@";
 
 /* use in the html summary */
-"%@ gave back %@ to %@" = "%1$@ gave back %3$@ to %2$@";
+"%@ gave back %@ to %@" = "%1$@ hat %3$@ an %2$@ zurückgegeben";
 
 /* summary email */
-"%@ owes %@ to %@" = "%1$@ owes %2$@ to %3$@";
+"%@ owes %@ to %@" = "%1$@ schuldet %2$@ an %3$@";
 
 /* table view cell subtitle */
-"%@ paid" = "%@ paid";
+"%@ paid" = "%@ hat gezahlt";
 
 /* use in the html summary */
-"%@ paid %@ for %@" = "<b>%1$@ paid %2$@</b> for %3$@";
+"%@ paid %@ for %@" = "<b>%1$@ hat %2$@</b> für %3$@ gezahlt";
 
 /* table view cell subtitle */
-"%@ paid back" = "%@ paid back";
+"%@ paid back" = "%@ hat zurückgezahlt";
 
 /* action sheet title */
-"%@ paid back %@ ?" = "%1$@ paid back %2$@ ?";
+"%@ paid back %@ ?" = "%1$@ hat %2$@ zurückgezahlt ?";
 
 /* email report main title */
 "%@ Report" = "%@ Report";
 
 /* summary email main title */
-"%@ summary" = "%@ summary";
+"%@ summary" = "%@ Zusammenfassung";
 
 /* table view cell title */
-"%d archived events" = "%d archived events";
+"%d archived events" = "%d archivierte Events";
 
 /* No comment provided by engineer. */
-"%d events" = "%d events";
+"%d events" = "%d Events";
 
 /* No comment provided by engineer. */
-"%d friends" = "%d friends";
+"%d friends" = "%d Freunde";
 
 /* counter of remaining steps (eg '1 over 3') */
-"%d over %d" = "%d over %d";
+"%d over %d" = "%d von %d";
 
 /* alert description */
-"%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?";
+"%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "Es wurde(n) %d geteilte Event(s) gefunden. Möchten Sie es/sie in den App-Ordner verschieben ?";
 
 /* alert description (for currency exchange rates */
 "? %@ = %@" = "? %1$@ = %2$@";
 
 /* No comment provided by engineer. */
-"AccountNeededDescription" = "You need an FriendCash account to activate this feature";
+"AccountNeededDescription" = "Sie benötigen einen FriendCash-Account zum Aktivieren dieses Features.";
 
 /* No comment provided by engineer. */
 "AccountNeededTitle" = "Account";
 
 /* button title */
-"Add %d friend" = "Add %d friend";
+"Add %d friend" = "%d Freund hinzufügen";
 
 /* button title */
-"Add %d friends" = "Add %d friends";
+"Add %d friends" = "%d Freunde hinzufügen";
 
 /* No comment provided by engineer. */
-"Add a new expense just right here" = "Add a new expense just right here";
+"Add a new expense just right here" = "Neue Ausgabe genau hier hinzufügen";
 
 /* No comment provided by engineer. */
-"All events" = "All events";
+"All events" = "Alle Events";
 
 /* bubble tip message */
-"All the expenses linked to the event %@ will be here" = "All the expenses linked to the event %@ will be here";
+"All the expenses linked to the event %@ will be here" = "Alle mit dem Event %@ verknüpften Ausgaben werden hier angezeigt.";
 
 /* No comment provided by engineer. */
-"already added" = "already added";
+"already added" = "bereits hinzugefügt";
 
 /* table view cell detail text */
-"already synced" = "already synced";
+"already synced" = "bereits syncronisiert";
 
 /* alert description */
-"AskForEventDeleteConfirmationDescription" = "Be careful, this operation cannot be undone. Are you sure you want to delete this event ?";
+"AskForEventDeleteConfirmationDescription" = "Vorsicht, diese Operation kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie dieses Event löschen möchten ?";
 
 /* alert title */
-"AskForEventDeleteConfirmationTitle" = "Delete event";
+"AskForEventDeleteConfirmationTitle" = "Event löschen";
 
 /* No comment provided by engineer. */
-"Auto backup" = "Auto backup";
+"Auto backup" = "Automatisches Backup";
 
 /* summary email */
-"available on the App Store" = "available on the App Store";
+"available on the App Store" = "verfügbar im App Store";
 
 /* alert description */
-"Before adding an expense you actually need to add some friends" = "Before adding an expense you actually need to add some friends";
+"Before adding an expense you actually need to add some friends" = "Bevor Sie eine Ausgabe hinzufügen, müssen sie noch ein paar Freunde hinzufügen";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancel";
+"Cancel" = "Abbruch";
 
 /* table view cell title */
-"cash balance" = "cash balance";
+"cash balance" = "Barbestand";
 
 /* button title */
-"Change the Contact associated" = "Change the Contact associated";
+"Change the Contact associated" = "Assoziierten Kontakt ändern";
 
 /* sample email message to share
    sample text message */
-"Check out the new version of the iPhone app named FriendCash. Spread the word!" = "Check out the new version of the iPhone app named FriendCash. Spread the word!";
+"Check out the new version of the iPhone app named FriendCash. Spread the word!" = "Lernen Sie die neue Version der iPhone-App FriendCash kennen. Verbreiten Sie es!";
 
 /* table view footer description that define briefly what can be done with the cloud feature */
-"CloudSumup" = "Backup and synchronize your events between devices with Dropbox. Just indicate to FriendCash the events you want on the Cloud.";
+"CloudSumup" = "Sichern und syncronisieren Sie Ihre Events zwischen Geräten mit Dropbox. Zeigen Sie FriendCash, welche Events Sie in der Cloud haben möchten.";
 
 /* placeholder text, just before enabling the cloud feature */
-"CloudTeaserSentence" = "Backup, Synchronize and Share your events accross multiple devices. \n\nAll you need is a Dropbox account!";
+"CloudTeaserSentence" = "Sichern, syncronisieren und teilen Sie Ihre Events zwischen unterschiedlichen Geräten.\n\nAlles, was Sie brauchen, ist ein Dropbox-Account!";
 
 /* No comment provided by engineer. */
-"Comment" = "Comment";
+"Comment" = "Kommentar";
 
 /* No comment provided by engineer. */
-"Configure" = "Configure";
+"Configure" = "Konfigurieren";
 
 /* No comment provided by engineer. */
-"Confirm" = "Confirm";
+"Confirm" = "Bestätigen";
 
 /* alert title */
-"Conflict files on Dropbox" = "Conflict files on Dropbox";
+"Conflict files on Dropbox" = "Datei-Konflikte in der Dropbox";
 
 /* button title */
-"Connect to Dropbox" = "Connect to Dropbox";
+"Connect to Dropbox" = "Mit Dropbox verbinden";
 
 /* table view cell title */
-"Connected to Dropbox" = "Connected to Dropbox";
+"Connected to Dropbox" = "Mit Dropbox verbunden";
 
 /* No comment provided by engineer. */
-"Continue" = "Continue";
+"Continue" = "Fortfahren";
 
 /* No comment provided by engineer. */
-"Copy Link" = "Copy Link";
+"Copy Link" = "Link kopieren";
 
 /* No comment provided by engineer. */
-"Currency" = "Currency";
+"Currency" = "Währung";
 
 /* alert title */
-"Data from v1" = "Data from v1";
+"Data from v1" = "Daten von v1";
 
 /* alert title */
-"Data import" = "Data import";
+"Data import" = "Daten-Import";
 
 /* alert title */
-"Delete" = "Delete";
+"Delete" = "Löschen";
 
 /* button title */
-"Delete on the Cloud" = "Delete on the Cloud";
+"Delete on the Cloud" = "Aus der Cloud löschen";
 
 /* loading label (note: needs to be short to avoid truncating words) */
-"Deleting event" = "Deleting event";
+"Deleting event" = "Event löschen";
 
 /* No comment provided by engineer. */
-"Dismiss" = "Dismiss";
+"Dismiss" = "Ausblenden";
 
 /* alert description */
 "Do you really want to delete the event \
-from the Cloud ? This operation will leave intact the local copy on your device." = "Do you really want to delete the event \
-from the Cloud ? This operation will leave intact the local copy on your device.";
+from the Cloud ? This operation will leave intact the local copy on your device." = "Möchten Sie wirklich das Event \
+aus der Cloud löschen ? Diese Operation behält die lokale Kopie auf Ihrem Gerät bei.";
 
 /* alert description */
-"Do you really want to import the data found from a previous version ?" = "Do you really want to import the data found from a previous version ?";
+"Do you really want to import the data found from a previous version ?" = "Möchten Sie wirklich die Daten von einer Vorgängerversion importieren ?";
 
 /* action sheet title */
-"Do you want to remove it from the Cloud too ?" = "Do you want to remove it from the Cloud too ?";
+"Do you want to remove it from the Cloud too ?" = "Möchten Sie es auch aus der Cloud löschen ?";
 
 /* loading label title (note: needs to be short to avoid truncating words */
-"Downloading..." = "Downloading...";
+"Downloading..." = "Herunterladen...";
 
 /* alert title */
-"Dropbox disconnected" = "Dropbox disconnected";
+"Dropbox disconnected" = "Dropbox getrennt";
 
 /* report link */
-"email sent from FriendCash" = "email sent from FriendCash";
+"email sent from FriendCash" = "email aus FriendCash gesendet";
 
 /* No comment provided by engineer. */
 "Event" = "Event";
@@ -185,139 +185,139 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Events" = "Events";
 
 /* table view header title (note: needs to be not too long to stay on one line on the iPhone) */
-"Events synced with the Cloud" = "Events synced with the Cloud";
+"Events synced with the Cloud" = "Mit der Cloud syncronisierte Events";
 
 /* alert title */
-"Exchange Rate" = "Taux de change";
+"Exchange Rate" = "Wechselrate";
 
 /* No comment provided by engineer. */
-"Exchange rates" = "Exchange rates";
+"Exchange rates" = "Wechselraten";
 
 /* No comment provided by engineer. */
-"Expense" = "Expense";
+"Expense" = "Ausgabe";
 
 /* No comment provided by engineer. */
-"Expenses" = "Expenses";
+"Expenses" = "Ausgaben";
 
 /* bubble tip message */
-"First thing to do, add an event!" = "First thing to do, add an event!";
+"First thing to do, add an event!" = "Als erstes: Ein Event hinzufügen!";
 
 /* bubble tip message */
-"First you need to add the friends involved in your event %@" = "First you need to add the friends involved in your event %@";
+"First you need to add the friends involved in your event %@" = "Davor müssen Sie involvierte Freunde zu Ihrem Event %@ hinzufügen";
 
 /* user can precise the reason of the expense */
-"For what ?" = "For what ?";
+"For what ?" = "Für was ?";
 
 /* No comment provided by engineer. */
-"Friend" = "Friend";
+"Friend" = "Freund";
 
 /* summary email */
-"FriendCash for iPhone and iPod touch" = "FriendCash for iPhone and iPad";
+"FriendCash for iPhone and iPod touch" = "FriendCash für iPhone und iPad";
 
 /* No comment provided by engineer. */
-"FriendDemoModuleIntermediateAmountTableView" = "A list of all the intermediate debts to calculate the cash balance";
+"FriendDemoModuleIntermediateAmountTableView" = "Eine Liste aller durchschnittlichen Schulden für die Berechnung des Barbestands";
 
 /* bubble tip message */
-"FriendDemoModulePersonalCost" = "Currently, the event has cost %1$@ to %2$@";
+"FriendDemoModulePersonalCost" = "Im Moment, dieses Event hat %2$@ %1$@ gekostet.";
 
 /* No comment provided by engineer. */
-"Friends" = "Friends";
+"Friends" = "Freunde";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
-"Generating Report" = "Generating Report";
+"Generating Report" = "Report generieren";
 
 /* table view footer description */
-"Give the app a five star review on the App Store to help us adding more free features" = "You like the app ? Give the app a five star review on the App Store to help us adding more free features";
+"Give the app a five star review on the App Store to help us adding more free features" = "Mögen Sie die App ? Geben Sie ihr ein 5-Sterne-Review im App Store, um uns zu helfen, mehr kostenlose Features hinzuzufügen";
 
 /* summary email */
-"have participated to the event %@" = "have participated to the event %@";
+"have participated to the event %@" = "haben am Event %@ teilgenommen";
 
 /* bubble tip message */
-"Here %@ is balanced with the group" = "Here %@ is balanced with the group";
+"Here %@ is balanced with the group" = "Hier ist %@ mit der Gruppe ausgeglichen";
 
 /* bubble tip message */
-"Here %@ owes %@ to the group" = "Here %1$@ owes %2$@ to the group";
+"Here %@ owes %@ to the group" = "Hier schuldet %1$@ %2$@ an die Gruppe";
 
 /* bubble tip message */
-"Here the group owes %@ to %@" = "Here the group owes %1$@ to %2$@";
+"Here the group owes %@ to %@" = "Hier schuldet die Gruppe %1$@ an %2$@";
 
 /* bubble tip message */
-"Here you will be able to know what people owes each other to balance the group" = "Here you will be able to know what people owes each other to balance the group";
+"Here you will be able to know what people owes each other to balance the group" = "Hier sehen Sie, was Leute einander schulden, um die Gruppe auszugleichen";
 
 /* user specify the amount of the expense */
-"How much ?" = "How much ?";
+"How much ?" = "Wie viel ?";
 
 /* summary email */
-"How to balance ?" = "How to balance ?";
+"How to balance ?" = "Wie ausgleichen ?";
 
 /* report link */
-"http://www.friendcashapp.com/en/report/%@" = "http://www.friendcashapp.com/en/report/%@";
+"http://www.friendcashapp.com/en/report/%@" = "http://www.friendcashapp.com/de/report/%@";
 
 /* rate alert description */
-"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Wenn Ihnen %@ gefällt, würde es Ihnen etwas ausmachen, es kurz zu bewerten? Es dauert nicht länger als eine Minute. Danke fütr Ihre Unterstützung!";
 
 /* user can specify in which event the expense will be added (note that it has to be short) */
-"In event ?" = "In event ?";
+"In event ?" = "Im event ?";
 
 /* email subject */
-"Invitation to use the iPhone app FriendCash" = "Invitation to use the iPhone app FriendCash";
+"Invitation to use the iPhone app FriendCash" = "Einladung für das iPhone-App FriendCash";
 
 /* table view footer description */
-"involved in %d expenses" = "involved in %d expenses";
+"involved in %d expenses" = "involviert in %d Ausgaben";
 
 /* No comment provided by engineer. */
-"ITunesURL" = "http://www.friendcashapp.com/en/appstore";
+"ITunesURL" = "http://www.friendcashapp.com/de/appstore";
 
 /* destructive button title */
-"Keep on the Cloud" = "Keep on the Cloud";
+"Keep on the Cloud" = "In der Cloud behalten";
 
 /* button title */
-"Link to one of your Contact" = "Link to one of your Contact";
+"Link to one of your Contact" = "Zu einem Ihrer Kontakte linken";
 
 /* bubble tip message */
-"List of expenses in which %@ is implied." = "List of expenses in which %@ is implied.";
+"List of expenses in which %@ is implied." = "Liste der Ausgaben, wo %@ impliziert ist.";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
-"Loading from Dropbox" = "Loading from Dropbox";
+"Loading from Dropbox" = "Laden aus Dropbox";
 
 /* loading text */
-"loading your data..." = "loading your data...";
+"loading your data..." = "Daten laden...";
 
 /* Loading Status */
-"Loading..." = "Loading...";
+"Loading..." = "Laden...";
 
 /* No comment provided by engineer. */
-"locked" = "locked";
+"locked" = "gesperrt";
 
 /* No comment provided by engineer. */
-"Mail Link to this Page" = "Mail Link to this Page";
+"Mail Link to this Page" = "Link zu dieser Seite mailen";
 
 /* notification title */
-"Missing currency rates" = "Missing currency rates";
+"Missing currency rates" = "Fehlender Wechselkurs";
 
 /* alert title */
-"Missing file..." = "Missing file...";
+"Missing file..." = "Fehlende Datei...";
 
 /* No comment provided by engineer. */
-"Modify event" = "Modify event";
+"Modify event" = "Event bearbeiten";
 
 /* No comment provided by engineer. */
-"Move" = "Move";
+"Move" = "Bewegen";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
-"Moving files" = "Moving files";
+"Moving files" = "Dateien bewegen";
 
 /* alert title */
-"Need friends..." = "Need friends...";
+"Need friends..." = "Benötige Freunde...";
 
 /* alert title */
-"Need you for that" = "Need you for that";
+"Need you for that" = "Problem";
 
 /* No comment provided by engineer. */
-"New Event" = "New Event";
+"New Event" = "Neues Event";
 
 /* No comment provided by engineer. */
-"New Expense" = "New Expense";
+"New Expense" = "Neue Ausgabe";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature1_Image_iPad" = "NewFeature1_v2.2@2x.png";
@@ -326,13 +326,13 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature1_Image_iPhone" = "NewFeature1_v2.2.png";
 
 /* New Features 1 - Subtext - v2.2 */
-"NewFeature1_Subtext" = "Upload the event on Dropbox and share the folder just like any other Dropbox shared folder.";
+"NewFeature1_Subtext" = "Event auf Dropbox hochladen und den Ordner wie jeden anderen Dropbox-Ordner teilen.";
 
 /* New Features 1 - Text - v2.2 */
-"NewFeature1_Text" = "Now you will be able to share your events with the person of your choice";
+"NewFeature1_Text" = "Nun können Sie Ihre Events mit Leuten Ihrer Wahl teilen";
 
 /* New Features 1 - Title - v2.2 */
-"NewFeature1_Title" = "A BIG step for FriendCash ! \nUse your Dropbox account to share";
+"NewFeature1_Title" = "Ein GROßER Schritt für FriendCash !\nNutzen Sie Ihren Dropbox-Account zum Teilen";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature2_Image_iPad" = "NewFeature2_v2.2@2x.png";
@@ -341,13 +341,13 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature2_Image_iPhone" = "NewFeature2_v2.2.png";
 
 /* New Features 2 - Subtext - v2.2 */
-"NewFeature2_Subtext" = "It will generate a public random url that you’ll be able to email to your friends. Now everyone can check the expenses in details, even if they don’t have an iOS device.";
+"NewFeature2_Subtext" = "Es wird eine öffentliche zufällige URL generiert, die Sie an Ihre Freunde schicken können. Nun kann jeder die Ausgaben im Detail sehen, sogar ohne iOS-Gerät.";
 
 /* New Features 2 - Text - v2.2 */
-"NewFeature2_Text" = "One tap on \"Generate Full Report\"";
+"NewFeature2_Text" = "Ein Tipp auf \"Vollen Report generieren\"";
 
 /* New Features 2 - Title - v2.2 */
-"NewFeature2_Title" = "New sharing on the web !";
+"NewFeature2_Title" = "Neues Teilen im Web !";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature3_Image_iPad" = "NewFeature3_v2.2@2x.png";
@@ -356,88 +356,88 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature3_Image_iPhone" = "NewFeature3_v2.2.png";
 
 /* New Features 3 - Subtext - v2.2 */
-"NewFeature3_Subtext" = "You want a specific feature, you want to report a bug... or juste to say Hi. I’ll read them all.";
+"NewFeature3_Subtext" = "Sie möchten ein bestimmtes Feature, einen Bug melden... oder einfach Hallo sagen. Ich werde sie alle lesen.";
 
 /* New Features 3 - Text - v2.2 */
-"NewFeature3_Text" = "The only way to know how you feel";
+"NewFeature3_Text" = "Der einzige Weg, um zu wissen, wie Sie sich fühlen";
 
 /* New Features 3 - Title - v2.2 */
-"NewFeature3_Title" = "Give feedbacks :)";
+"NewFeature3_Title" = "Feedback geben :)";
 
 /* No comment provided by engineer. */
-"No" = "No";
+"No" = "Nein";
 
 /* subtitle on the friend profile view */
-"no email address specified" = "no email address specified";
+"no email address specified" = "keine Mail-Adresse angegeben";
 
 /* used when there is no name set for an event */
-"No name" = "No name";
+"No name" = "Kein Name";
 
 /* rate button title (never bother the user again) */
-"No, thanks" = "No, thanks";
+"No, thanks" = "Nein danke";
 
 /* rate button (take the user to the app store page) */
-"Notez Maintenant" = "Notez Maintenant";
+"Notez Maintenant" = "Jetzt";
 
 /* alert description */
-"NotificationMissingEmailAddressDescription" = "Some email addresses are missing, not all the event participants will receive the email";
+"NotificationMissingEmailAddressDescription" = "Einige Mail-Adressen fehlen, nicht alle Teilnehmer werden die Mail erhalten";
 
 /* alert title */
-"NotificationMissingEmailAddressTitle" = "Summary email";
+"NotificationMissingEmailAddressTitle" = "Zusammenfassungs-Mail";
 
 /* alert description */
-"NotificationPersistenceStoreCorruptedDescription" = "It appears that the application data are corrupted, please close this app by tapping the home button and try to restart your device. If it still does not work, delete this app and reinstall it and restore your event from Dropbox.";
+"NotificationPersistenceStoreCorruptedDescription" = "Es scheint, dass die App-Daten fehlerhaft sind, bitte beenden Sie dieses App mit dem Home-Button und starten Sie Ihr Gerät neu. Wenn das nicht funktioniert, installieren Sie das App neu und stellen Sie Ihre Daten aus Dropbox wieder her.";
 
 /* alert title */
-"NotificationPersistenceStoreCorruptedTitle" = "We are sorry";
+"NotificationPersistenceStoreCorruptedTitle" = "Entschuldigung";
 
 /* No comment provided by engineer. */
-"Ok" = "Ok";
+"Ok" = "OK";
 
 /* No comment provided by engineer. */
-"Open in Safari" = "Open in Safari";
+"Open in Safari" = "In Safari öffnen";
 
 /* No comment provided by engineer. */
-"Operation Failed" = "Operation Failed";
+"Operation Failed" = "Operation fehlgeschlagen";
 
 /* No comment provided by engineer. */
-"owes" = "owes";
+"owes" = "schuldet";
 
 /* No comment provided by engineer. */
-"paid" = "paid";
+"paid" = "hat bezahlt";
 
 /* table view cell title */
-"paid by %@" = "paid by %@";
+"paid by %@" = "hat bezahlt mit %@";
 
 /* alert title */
-"Partial reimbursement" = "Partial reimbursement";
+"Partial reimbursement" = "Teilerstattung";
 
 /* No comment provided by engineer. */
-"Partially" = "Partially";
+"Partially" = "Teilweise";
 
 /* No comment provided by engineer. */
-"Pay back" = "Pay back";
+"Pay back" = "Zurückzahlen";
 
 /* table view cell title */
-"personal cost" = "personal cost";
+"personal cost" = "Persönliche Ausgabe";
 
 /* No comment provided by engineer. */
-"Pick a friend" = "Pick a friend";
+"Pick a friend" = "Freund auswählen";
 
 /* No comment provided by engineer. */
-"pick a friend" = "pick a friend";
+"pick a friend" = "Freund auswählen";
 
 /* table view cell subtitle */
-"pick an event" = "pick an event";
+"pick an event" = "Event auswählen";
 
 /* table view footer description */
-"Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy.";
+"Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Wählen Sie die Zahl an Decimal-Stellen zum Anzeigen in der App. Das beeinflusst nicht die Rechengenauigkeit, welche mit Fließkomma durchgeführt werden.";
 
 /* Pull down to refresh status */
-"Pull down to refresh..." = "Pull down to refresh...";
+"Pull down to refresh..." = "Ziehen zum Neuladen...";
 
 /* rate alert title */
-"Rate %@" = "Rate %@";
+"Rate %@" = "Bewerten %@";
 
 /* alert description */
 "ReachabilityDescription" = "ReachabilityDescription";
@@ -452,127 +452,127 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "ReachabilityTitle" = "ReachabilityTitle";
 
 /* Release to refresh status */
-"Release to refresh..." = "Release to refresh...";
+"Release to refresh..." = "Loslassen zum Neuladen...";
 
 /* rate button title (reminds the user sometimes later) */
-"Remind me later" = "Remind me later";
+"Remind me later" = "Später erinnern";
 
 /* alert description */
-"Sadely, your account is not linked anymore. Enable it again please :)" = "Sadely, your account is not linked anymore. Enable it again please :)";
+"Sadely, your account is not linked anymore. Enable it again please :)" = "Leider ist Ihr Account nicht mehr verbunden. Bitte aktivieren Sie ihn wieder :)";
 
 /* No comment provided by engineer. */
-"Save" = "Save";
+"Save" = "Sichern";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
-"Searching for shared events" = "Searching for shared events";
+"Searching for shared events" = "Nach geteilten Events suchen";
 
 /* No comment provided by engineer. */
-"Selection" = "Selection";
+"Selection" = "Auswahl";
 
 /* alert description */
-"Set how much %@ paid back %@" = "Set how much %1$@ paid back %2$@";
+"Set how much %@ paid back %@" = "Festlegen, wie viel %1$@ %2$@ zurückgezahlt hat.";
 
 /* alert title */
-"Shared events" = "Shared events";
+"Shared events" = "Geteilte Events";
 
 /* No comment provided by engineer. */
-"Show all contacts" = "Show all contacts";
+"Show all contacts" = "Alle Kontakte zeigen";
 
 /* No comment provided by engineer. */
-"Show only favorites" = "Show only favorites";
+"Show only favorites" = "Nur Favoriten zeigen";
 
 /* alert description */
-"Sorry but we can't find any data from previous version of FriendCash..." = "Sorry but we can't find any data from previous version of FriendCash...";
+"Sorry but we can't find any data from previous version of FriendCash..." = "Sorry, aber wir konnten keine Daten einer vorherigen Version von FriedCash finden...";
 
 /* No comment provided by engineer. */
-"Sum up" = "Sum up";
+"Sum up" = "Zusammenzählen";
 
 /* No comment provided by engineer. */
-"Tell by email" = "Tell by email";
+"Tell by email" = "Per Mail mitteilen";
 
 /* No comment provided by engineer. */
-"Tell by SMS" = "Tell by SMS";
+"Tell by SMS" = "Per SMS mitteilen";
 
 /* action sheet title */
-"Tell your friends about FriendCash" = "Tell your friends about FriendCash";
+"Tell your friends about FriendCash" = "Ihren Freunden über FriendCash erzählen";
 
 /* table view footer description */
-"the amounts are computing for the event \"%@\"" = "the amounts are computing for the event \"%@\"";
+"the amounts are computing for the event \"%@\"" = "Die Beträge für das Event \"%@\" werden berechnet";
 
 /* summary email */
-"The expenses list" = "The expenses list";
+"The expenses list" = "Die Ausgabenliste";
 
 /* bubble tip message (fixed part) */
-"The friend financial balance inside the group" = "The friend financial balance inside the group";
+"The friend financial balance inside the group" = "Der Finanzausgleich der Freunde in der Gruppe";
 
 /* No comment provided by engineer. */
-"The operation did not complete successfully: %@" = "The operation did not complete successfully: %@";
+"The operation did not complete successfully: %@" = "Die Operation wurde nicht erfolgreich abgeschlossen: %@";
 
 /* report link email */
-"The report is available online at the url" = "The report is available online at the url";
+"The report is available online at the url" = "Der Report ist online verfügbar unter der URL";
 
 /* bubble tip message */
-"Then you'll be able to add an expense from everywhere thanks to this button" = "Then you'll be able to add an expense from everywhere thanks to this button";
+"Then you'll be able to add an expense from everywhere thanks to this button" = "Durch diesen Button werden Sie eine Ausgabe von überall hinzufügen können";
 
 /* alert description */
 "There is more than one file for the hash '%@'. \
 The sync is suspended until the conflict is resolved Please use the search field on your Dropbox web page to find \
-the duplicates and only keep the most recent version." = "There is more than one file for the hash '%@'. \
-The sync is suspended until the conflict is resolved Please use the search field on your Dropbox web page to find \
-the duplicates and only keep the most recent version.";
+the duplicates and only keep the most recent version." = "Es existiert mehr als eine Datei für den Hash '%@'. \
+Der Sync wird unterbrochen, bis der Konflikt behoben ist. Bitte nutzen Sie das Suchfeld auf der Dropbox-Website, um die Duplikate zu finden \
+und nur die aktuellste Version zu behalten.";
 
 /* alert description */
-"There is no file compatible with this version of FriendCash in the directory '%@'" = "There is no file compatible with this version of FriendCash in the directory '%@'";
+"There is no file compatible with this version of FriendCash in the directory '%@'" = "Im Ordner '%@' wurde keine mit dieser FriendCash-Version kompatible Datei gefunden";
 
 /* No comment provided by engineer. */
-"Title" = "Title";
+"Title" = "Titel";
 
 /* No comment provided by engineer. */
-"to" = "to";
+"to" = "zu";
 
 /* No comment provided by engineer. */
-"Today" = "Today";
+"Today" = "Heute";
 
 /* No comment provided by engineer. */
-"Total" = "Total";
+"Total" = "Gesamt";
 
 /* No comment provided by engineer. */
-"unlock" = "unlock";
+"unlock" = "Sperre aufheben";
 
 /* No comment provided by engineer. */
-"Update" = "Update";
+"Update" = "Aktualisieren";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
-"Uploading..." = "Uploading...";
+"Uploading..." = "Hochladen...";
 
 /* alert description */
-"We detect some data from FriendCash v1 do you want to import these data" = "We detect some data from FriendCash v1 do you want to import these data";
+"We detect some data from FriendCash v1 do you want to import these data" = "Es wurden Daten aus FriendCash v1 gefunden. Möchten Sie diese Daten importieren?";
 
 /* notification description */
 "We did not found the exchange rates for some of the currencies \
 you are using in this event. Please enter the currency rate by \
-editing the event properties with the above \"Edit\" button." = "We did not found the exchange rates for some of the currencies \
-you are using in this event. Please enter the currency rate by \
-editing the event properties with the above \"Edit\" button.";
+editing the event properties with the above \"Edit\" button." = "Die Wechselkurse für ein paar der Währungen in diesem Event wurden nicht gefunden. \
+Bitte geben Sie den Wechselkurs ein, indem Sie die Event- \
+Eigenschaften über den \"Bearbeiten\"-Knopf bearbeiten.";
 
 /* user can modify the date of the expense */
-"When ? " = "When ? ";
+"When ? " = "Wann ? ";
 
 /* user can choose who paid the expense */
-"Who paid ?" = "Who paid ?";
+"Who paid ?" = "Wer hat bezahlt ?";
 
 /* placeholder text for the note associated to an expense */
-"write a short note" = "write a short note";
+"write a short note" = "kurze Notiz";
 
 /* No comment provided by engineer. */
-"Yes" = "Yes";
+"Yes" = "Ja";
 
 /* No comment provided by engineer. */
-"Yesterday" = "Yesterday";
+"Yesterday" = "Gestern";
 
 /* alert description */
-"You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !";
+"You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "Sie müssen einen gültigen Mail-Account auf diesem Gerät konfigurieren, um dieses Feature zu nutzen. Dann funktioniert alles genial !";
 
 /* No comment provided by engineer. */
-"You're receiving this email because you were listed as a participant of an event by one of your friend." = "You're receiving this email because you were listed as a participant of an event by one of your friend.";
+"You're receiving this email because you were listed as a participant of an event by one of your friend." = "Sie erhalten diese Mail, weil Sie als Teilnehmer eines Events einer Ihrer Freunde aufgeführt wurden.";
 

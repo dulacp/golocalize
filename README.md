@@ -9,7 +9,7 @@ _Crossed out languages are not yet fully implemented_
 - English (en)
 - French (fr)
 - ~~Spanish (es)~~
-- ~~German (de)~~
+- German (de) (Lukas Bestle, [lu-x.me](http://lu-x.me/))
 
 
 ## Contribute

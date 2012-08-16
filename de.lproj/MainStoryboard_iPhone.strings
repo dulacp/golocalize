@@ -291,7 +291,7 @@
 "cAU-S8-Ulm.text" = "lestze Änderung";
 
 /* Class = "IBUILabel"; text = "Request a feature"; ObjectID = "cUM-Lp-yUk"; */
-"cUM-Lp-yUk.text" = "Feature anfordern";
+"cUM-Lp-yUk.text" = "Feature vorschlagen";
 
 /* Class = "IBUILabel"; text = "pizza and coke"; ObjectID = "cad-1H-hYT"; */
 "cad-1H-hYT.text" = "Pizza und Cola";
@@ -309,7 +309,7 @@
 "dNg-OO-Jin.text" = "$ 20.13";
 
 /* Class = "IBUILabel"; text = "Get an event from the Cloud"; ObjectID = "diJ-G0-hEK"; */
-"diJ-G0-hEK.text" = "Event von der Cloud holen";
+"diJ-G0-hEK.text" = "Event aus der Cloud holen";
 
 /* Class = "IBUINavigationItem"; title = "Precision"; ObjectID = "eSK-En-bFL"; */
 "eSK-En-bFL.title" = "Präzision";

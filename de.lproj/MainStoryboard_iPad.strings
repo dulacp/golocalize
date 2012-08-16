@@ -141,7 +141,7 @@
 "HOZ-mG-ahk.text" = "Erster";
 
 /* Class = "IBUILabel"; text = "Request a feature"; ObjectID = "Hcg-oj-AMq"; */
-"Hcg-oj-AMq.text" = "Feature anfordern";
+"Hcg-oj-AMq.text" = "Feature vorschlagen";
 
 /* Class = "IBUIBarButtonItem"; title = "Next"; ObjectID = "IXE-7C-yGz"; */
 "IXE-7C-yGz.title" = "Nächster";
@@ -348,7 +348,7 @@
 "ns4-ae-uU3.text" = "Mit einem Kontakt verknüpfen";
 
 /* Class = "IBUILabel"; text = "Résoudre les conflits"; ObjectID = "ntX-8e-S3J"; */
-"ntX-8e-S3J.text" = "Résoudre les conflits";
+"ntX-8e-S3J.text" = "Konflikte beheben";
 
 /* Class = "IBUILabel"; text = "Enable sound"; ObjectID = "pd2-Jo-gl4"; */
 "pd2-Jo-gl4.text" = "Sounds aktivieren";

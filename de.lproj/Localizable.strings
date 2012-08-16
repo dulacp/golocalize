@@ -26,7 +26,7 @@
 "%@ paid back" = "%@ hat zurückgezahlt";
 
 /* action sheet title */
-"%@ paid back %@ ?" = "%1$@ hat %2$@ zurückgezahlt?";
+"%@ paid back %@ ?" = "Hat %1$@ %2$@ zurückgezahlt?";
 
 /* email report main title */
 "%@ Report" = "%@ Report";
@@ -218,7 +218,7 @@ aus der Cloud löschen? Diese Operation behält die lokale Kopie auf Ihrem Gerä
 "FriendDemoModuleIntermediateAmountTableView" = "Eine Liste aller durchschnittlichen Schulden für die Berechnung des Barbestands";
 
 /* bubble tip message */
-"FriendDemoModulePersonalCost" = "Im Moment, dieses Event hat %2$@ %1$@ gekostet.";
+"FriendDemoModulePersonalCost" = "Im Moment hat dieses Event %2$@ %1$@ gekostet.";
 
 /* No comment provided by engineer. */
 "Friends" = "Freunde";
@@ -407,7 +407,7 @@ aus der Cloud löschen? Diese Operation behält die lokale Kopie auf Ihrem Gerä
 "paid" = "hat bezahlt";
 
 /* table view cell title */
-"paid by %@" = "hat bezahlt mit %@";
+"paid by %@" = "gezahlt von %@";
 
 /* alert title */
 "Partial reimbursement" = "Teilerstattung";
@@ -419,7 +419,7 @@ aus der Cloud löschen? Diese Operation behält die lokale Kopie auf Ihrem Gerä
 "Pay back" = "Zurückzahlen";
 
 /* table view cell title */
-"personal cost" = "Persönliche Ausgabe";
+"personal cost" = "Persönliche Ausgaben";
 
 /* No comment provided by engineer. */
 "Pick a friend" = "Freund auswählen";
@@ -470,7 +470,7 @@ aus der Cloud löschen? Diese Operation behält die lokale Kopie auf Ihrem Gerä
 "Selection" = "Auswahl";
 
 /* alert description */
-"Set how much %@ paid back %@" = "Festlegen, wie viel %1$@ %2$@ zurückgezahlt hat.";
+"Set how much %@ paid back %@" = "Wie viel hat %1$@ %2$@ zurückgezahlt?";
 
 /* alert title */
 "Shared events" = "Geteilte Events";

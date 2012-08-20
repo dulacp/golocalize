@@ -6,7 +6,7 @@
 "1BJ-sp-0vg.placeholder" = "0,00";
 
 /* Class = "IBUINavigationItem"; title = "Precision"; ObjectID = "2i0-Ic-A4N"; */
-"2i0-Ic-A4N.title" = "Präzision";
+"2i0-Ic-A4N.title" = "Genauigkeit";
 
 /* Class = "IBUILabel"; text = "Help"; ObjectID = "3Xk-xc-edE"; */
 "3Xk-xc-edE.text" = "Hilfe";
@@ -30,7 +30,7 @@
 "5tZ-5H-hNd.text" = "0";
 
 /* Class = "IBUITableViewController"; title = "ICloud"; ObjectID = "65Y-j9-xqI"; */
-"65Y-j9-xqI.title" = "ICloud";
+"65Y-j9-xqI.title" = "iCloud";
 
 /* Class = "IBUITableViewController"; title = "Settings"; ObjectID = "6uE-Ua-ajN"; */
 "6uE-Ua-ajN.title" = "Einstellungen";
@@ -72,7 +72,7 @@
 "9m4-7K-iv0.text" = "Name";
 
 /* Class = "IBUILabel"; text = "Decimal precision"; ObjectID = "ANm-6N-G9e"; */
-"ANm-6N-G9e.text" = "Dezimal-Präzision";
+"ANm-6N-G9e.text" = "Dezimalstellen";
 
 /* Class = "IBUINavigationItem"; title = "Who paid ?"; ObjectID = "AWh-bu-ysl"; */
 "AWh-bu-ysl.title" = "Wer hat gezahlt?";
@@ -258,7 +258,7 @@
 "aKU-KI-NXK.text" = "Detail";
 
 /* Class = "IBUILabel"; text = "Archive this event"; ObjectID = "anR-DT-ASj"; */
-"anR-DT-ASj.text" = "Event archivieren";
+"anR-DT-ASj.text" = "Ereignis archivieren";
 
 /* Class = "IBUILabel"; text = "First"; ObjectID = "c08-ge-ATC"; */
 "c08-ge-ATC.text" = "Erster";
@@ -267,13 +267,13 @@
 "cV6-Q8-JAG.text" = "Währung";
 
 /* Class = "IBUILabel"; text = "Add an event to the Cloud"; ObjectID = "ccW-T2-P4X"; */
-"ccW-T2-P4X.text" = "Event zur Cloud hinzufügen";
+"ccW-T2-P4X.text" = "Ereignis zur Cloud hinzufügen";
 
 /* Class = "IBUILabel"; text = "FEB"; ObjectID = "dMa-ew-fmU"; */
 "dMa-ew-fmU.text" = "FEB";
 
 /* Class = "IBUILabel"; text = "Event name"; ObjectID = "dhL-hk-Lqq"; */
-"dhL-hk-Lqq.text" = "Event-Name";
+"dhL-hk-Lqq.text" = "Ereginisname";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "dle-jR-fZY"; */
 "dle-jR-fZY.text" = "Beschriftung";
@@ -306,7 +306,7 @@
 "gy5-P5-vr6.title" = "Wann?";
 
 /* Class = "IBUIButton"; normalTitle = "Generate full report"; ObjectID = "h9t-fb-wEd"; */
-"h9t-fb-wEd.normalTitle" = "Vollständigen Report generieren";
+"h9t-fb-wEd.normalTitle" = "Vollständigen Bericht generieren";
 
 /* Class = "IBUILabel"; text = "website"; ObjectID = "hgr-Y3-MO0"; */
 "hgr-Y3-MO0.text" = "Website";

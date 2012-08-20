@@ -42,7 +42,7 @@
 "343.title" = "Freunde";
 
 /* Class = "IBUITableViewController"; title = "ICloud"; ObjectID = "478"; */
-"478.title" = "ICloud";
+"478.title" = "iCloud";
 
 /* Class = "IBUINavigationItem"; title = "Cloud"; ObjectID = "486"; */
 "486.title" = "Cloud";
@@ -162,7 +162,7 @@
 "Eb9-jE-Wr6.text" = "Kommentar";
 
 /* Class = "IBUIButton"; normalTitle = "Add an event"; ObjectID = "Enp-HV-HRO"; */
-"Enp-HV-HRO.normalTitle" = "Ein Event hinzufügen";
+"Enp-HV-HRO.normalTitle" = "Ein Ereignis hinzufügen";
 
 /* Class = "IBUILabel"; text = "First"; ObjectID = "Gfb-cq-C3d"; */
 "Gfb-cq-C3d.text" = "Erster";
@@ -216,7 +216,7 @@
 "NJA-hv-mPW.text" = "Website";
 
 /* Class = "IBUILabel"; text = "Decimal precision"; ObjectID = "NPp-3q-jg5"; */
-"NPp-3q-jg5.text" = "Dezimal-Präzision";
+"NPp-3q-jg5.text" = "Dezimalstellen";
 
 /* Class = "IBUILabel"; text = "Cur"; ObjectID = "Oup-Jy-jwq"; */
 "Oup-Jy-jwq.text" = "Cur";

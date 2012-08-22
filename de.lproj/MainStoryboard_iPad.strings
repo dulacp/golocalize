@@ -6,7 +6,7 @@
 "1BJ-sp-0vg.placeholder" = "0,00";
 
 /* Class = "IBUINavigationItem"; title = "Precision"; ObjectID = "2i0-Ic-A4N"; */
-"2i0-Ic-A4N.title" = "Genauigkeit";
+"2i0-Ic-A4N.title" = "Dezimalstellen";
 
 /* Class = "IBUILabel"; text = "Help"; ObjectID = "3Xk-xc-edE"; */
 "3Xk-xc-edE.text" = "Hilfe";
@@ -36,7 +36,7 @@
 "6uE-Ua-ajN.title" = "Einstellungen";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "75R-ss-Cfu"; */
-"75R-ss-Cfu.text" = "Beschriftung";
+"75R-ss-Cfu.text" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "2"; ObjectID = "7BY-uB-Jbd"; */
 "7BY-uB-Jbd.text" = "2";
@@ -45,7 +45,7 @@
 "7Zk-sP-Oaw.text" = "Detail";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "81p-4o-mTy"; */
-"81p-4o-mTy.text" = "Beschriftung";
+"81p-4o-mTy.text" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "8Xq-Sy-m6X"; */
 "8Xq-Sy-m6X.text" = "Titel";
@@ -66,7 +66,7 @@
 "9VH-Zb-MFq.text" = "$ 20.13";
 
 /* Class = "IBUITextField"; placeholder = "remind me..."; ObjectID = "9cE-9x-I4b"; */
-"9cE-9x-I4b.placeholder" = "Erinnern...";
+"9cE-9x-I4b.placeholder" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "Name"; ObjectID = "9m4-7K-iv0"; */
 "9m4-7K-iv0.text" = "Name";
@@ -78,7 +78,7 @@
 "AWh-bu-ysl.title" = "Wer hat gezahlt?";
 
 /* Class = "IBUINavigationItem"; title = "About"; ObjectID = "AXX-jk-2h4"; */
-"AXX-jk-2h4.title" = "Über";
+"AXX-jk-2h4.title" = "Infos";
 
 /* Class = "IBUIButton"; normalTitle = "Tab3"; ObjectID = "B0t-XT-bO2"; */
 "B0t-XT-bO2.normalTitle" = "Tab3";
@@ -108,10 +108,10 @@
 "Dds-Tu-zC4.text" = "Kommentar";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "DeM-bS-nxl"; */
-"DeM-bS-nxl.text" = "Beschriftung";
+"DeM-bS-nxl.text" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "Dxi-hl-QS9"; */
-"Dxi-hl-QS9.text" = "Beschriftung";
+"Dxi-hl-QS9.text" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "No expense"; ObjectID = "Esz-7D-cS5"; */
 "Esz-7D-cS5.text" = "Keine Ausgabe";
@@ -141,7 +141,7 @@
 "HOZ-mG-ahk.text" = "Erster";
 
 /* Class = "IBUILabel"; text = "Request a feature"; ObjectID = "Hcg-oj-AMq"; */
-"Hcg-oj-AMq.text" = "Feature vorschlagen";
+"Hcg-oj-AMq.text" = "Funktion vorschlagen";
 
 /* Class = "IBUIBarButtonItem"; title = "Next"; ObjectID = "IXE-7C-yGz"; */
 "IXE-7C-yGz.title" = "Nächster";
@@ -159,7 +159,7 @@
 "JKa-uU-YLU.title" = "Ausgaben";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "JWo-V6-B8N"; */
-"JWo-V6-B8N.text" = "Beschriftung";
+"JWo-V6-B8N.text" = "Beschreibung";
 
 /* Class = "IBUINavigationItem"; title = "Prefs"; ObjectID = "Jfy-k2-1lw"; */
 "Jfy-k2-1lw.title" = "Einstellungen";
@@ -195,7 +195,7 @@
 "PpW-sh-Osq.text" = "Feras hat gezahlt";
 
 /* Class = "IBUILabel"; text = "Get an event from the Cloud"; ObjectID = "Q21-VP-JDa"; */
-"Q21-VP-JDa.text" = "Event aus der Cloud holen";
+"Q21-VP-JDa.text" = "Ereignis aus der Cloud laden";
 
 /* Class = "IBUILabel"; text = "detail"; ObjectID = "QUt-rZ-63H"; */
 "QUt-rZ-63H.text" = "Detail";
@@ -225,10 +225,10 @@
 "V7d-tq-AdU.text" = "Kommentar";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "VNZ-sK-3yZ"; */
-"VNZ-sK-3yZ.text" = "Beschriftung";
+"VNZ-sK-3yZ.text" = "Beschreibung";
 
 /* Class = "IBUIButton"; normalTitle = "Add an event"; ObjectID = "VR6-ts-hBg"; */
-"VR6-ts-hBg.normalTitle" = "Event hinzufügen";
+"VR6-ts-hBg.normalTitle" = "Ereignis hinzufügen";
 
 /* Class = "IBUIBarButtonItem"; title = "Previous"; ObjectID = "WdW-8q-igU"; */
 "WdW-8q-igU.title" = "Zurück";
@@ -237,7 +237,7 @@
 "Wmn-mk-6wP.text" = "Detail";
 
 /* Class = "IBUILabel"; text = "Tell your friends"; ObjectID = "Wtx-C9-7K0"; */
-"Wtx-C9-7K0.text" = "Freunden erzählen";
+"Wtx-C9-7K0.text" = "Freunden empfehlen";
 
 /* Class = "IBUILabel"; text = "No Friend"; ObjectID = "YYG-MK-TtV"; */
 "YYG-MK-TtV.text" = "Kein Freund";
@@ -246,7 +246,7 @@
 "Z78-FG-tkA.normalTitle" = "Tab2";
 
 /* Class = "IBUINavigationItem"; title = "New event"; ObjectID = "Zvq-VW-HXT"; */
-"Zvq-VW-HXT.title" = "Neues Event";
+"Zvq-VW-HXT.title" = "Neues Ereignis";
 
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "aHY-EM-Z7R"; */
 "aHY-EM-Z7R.text" = "Titel";
@@ -273,22 +273,22 @@
 "dMa-ew-fmU.text" = "FEB";
 
 /* Class = "IBUILabel"; text = "Event name"; ObjectID = "dhL-hk-Lqq"; */
-"dhL-hk-Lqq.text" = "Ereginisname";
+"dhL-hk-Lqq.text" = "Ereignisname";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "dle-jR-fZY"; */
-"dle-jR-fZY.text" = "Beschriftung";
+"dle-jR-fZY.text" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "e1E-aK-87d"; */
 "e1E-aK-87d.text" = "Titel";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "e4P-Uz-0WD"; */
-"e4P-Uz-0WD.text" = "Beschriftung";
+"e4P-Uz-0WD.text" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "local description"; ObjectID = "eHd-w3-blm"; */
 "eHd-w3-blm.text" = "lokale Beschreibung";
 
 /* Class = "IBUINavigationItem"; title = "In event ?"; ObjectID = "f2X-e9-565"; */
-"f2X-e9-565.title" = "Im Event?";
+"f2X-e9-565.title" = "Im Ereignis?";
 
 /* Class = "IBUINavigationItem"; title = "Expenses"; ObjectID = "fHL-nb-SCX"; */
 "fHL-nb-SCX.title" = "Ausgaben";
@@ -318,7 +318,7 @@
 "hnM-eQ-Op4.text" = "Name";
 
 /* Class = "IBUILabel"; text = "No Event"; ObjectID = "iOE-bp-aiP"; */
-"iOE-bp-aiP.text" = "Kein Event";
+"iOE-bp-aiP.text" = "Kein Ereignis";
 
 /* Class = "IBUILabel"; text = "Title"; ObjectID = "jY7-Ci-m27"; */
 "jY7-Ci-m27.text" = "Titel";
@@ -333,16 +333,16 @@
 "kOb-0P-u6n.title" = "Neue Ausgabe";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "kZK-Pn-7PR"; */
-"kZK-Pn-7PR.text" = "Beschriftung";
+"kZK-Pn-7PR.text" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "Import iCloud Data from v2"; ObjectID = "mCe-iH-QLw"; */
 "mCe-iH-QLw.text" = "iCloud-Daten von v2 importieren";
 
 /* Class = "IBUILabel"; text = "EventName"; ObjectID = "mDu-Af-Uv7"; */
-"mDu-Af-Uv7.text" = "EventName";
+"mDu-Af-Uv7.text" = "Ereignisname";
 
 /* Class = "IBUINavigationItem"; title = "Events"; ObjectID = "nfM-xq-hfi"; */
-"nfM-xq-hfi.title" = "Events";
+"nfM-xq-hfi.title" = "Ereignisse";
 
 /* Class = "IBUILabel"; text = "Link to one of your Contact"; ObjectID = "ns4-ae-uU3"; */
 "ns4-ae-uU3.text" = "Mit einem Kontakt verknüpfen";
@@ -363,7 +363,7 @@
 "sBk-Ad-xnA.text" = "0";
 
 /* Class = "IBUILabel"; text = "New features tour"; ObjectID = "sHB-3h-xw3"; */
-"sHB-3h-xw3.text" = "Neue Funktionen: Tour";
+"sHB-3h-xw3.text" = "Neue Funktionen";
 
 /* Class = "IBUIButton"; normalTitle = "INR"; ObjectID = "sRQ-jp-rcI"; */
 "sRQ-jp-rcI.normalTitle" = "INR";
@@ -381,10 +381,10 @@
 "tJX-5x-CrZ.text" = "App bewerten";
 
 /* Class = "IBUIButton"; normalTitle = "Send the summary by email"; ObjectID = "tQS-7V-jBt"; */
-"tQS-7V-jBt.normalTitle" = "Zusammenfassung per Mail senden";
+"tQS-7V-jBt.normalTitle" = "Zusammenfassung per E-Mail senden";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "tbe-Sz-CPP"; */
-"tbe-Sz-CPP.text" = "Beschriftung";
+"tbe-Sz-CPP.text" = "Beschreibung";
 
 /* Class = "IBUILabel"; text = "subtitle"; ObjectID = "tqm-VV-9Qy"; */
 "tqm-VV-9Qy.text" = "Untertitel";
@@ -399,10 +399,10 @@
 "vMd-7Z-QWm.text" = "Cur";
 
 /* Class = "IBUILabel"; text = "Label"; ObjectID = "vUX-tr-ijq"; */
-"vUX-tr-ijq.text" = "Beschriftung";
+"vUX-tr-ijq.text" = "Beschreibung";
 
 /* Class = "IBUINavigationItem"; title = "Upload event"; ObjectID = "w7h-uR-7j8"; */
-"w7h-uR-7j8.title" = "Event hochladen";
+"w7h-uR-7j8.title" = "Ereignis hochladen";
 
 /* Class = "IBUINavigationItem"; title = "Pick friends"; ObjectID = "wYB-Z2-ywC"; */
 "wYB-Z2-ywC.title" = "Freunde auswählen";

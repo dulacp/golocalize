@@ -11,7 +11,7 @@
 "%@ = ? %@" = "%1$@ = ? %2$@";
 
 /* use in the html summary */
-"%@ gave back %@ to %@" = "%1$@ hat %3$@ an %2$@ zurückgegeben";
+"%@ gave back %@ to %@" = "%1$@ hat %2$@ an %3$@ zurückgegeben";
 
 /* summary email */
 "%@ owes %@ to %@" = "%1$@ schuldet %2$@ an %3$@";
@@ -26,7 +26,7 @@
 "%@ paid back" = "%@ hat zurückgezahlt";
 
 /* action sheet title */
-"%@ paid back %@ ?" = "Hat %1$@ %2$@ zurückgezahlt?";
+"%@ paid back %@ ?" = "Hat %1$@ an %2$@ zurückgezahlt?";
 
 /* email report main title */
 "%@ Report" = "%@ Bericht";
@@ -47,7 +47,7 @@
 "%d over %d" = "%d von %d";
 
 /* alert description */
-"%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "Es wurde(n) %d geteilte Event(s) gefunden. Möchtest du es/sie in den App-Ordner verschieben?";
+"%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "Es wurde(n) %d geteilte Ereigniss(e) gefunden. Möchtest du es/sie in den App-Ordner verschieben?";
 
 /* alert description (for currency exchange rates */
 "? %@ = %@" = "? %1$@ = %2$@";
@@ -77,7 +77,7 @@
 "already added" = "bereits hinzugefügt";
 
 /* table view cell detail text */
-"already synced" = "bereits syncronisiert";
+"already synced" = "bereits synchronisiert";
 
 /* alert description */
 "AskForEventDeleteConfirmationDescription" = "Vorsicht, diese Operation kann nicht rückgängig gemacht werden. Soll dieses Ereignis wirklich gelöscht werden?";
@@ -101,17 +101,17 @@
 "cash balance" = "Barbestand";
 
 /* button title */
-"Change the Contact associated" = "Assoziierten Kontakt ändern";
+"Change the Contact associated" = "Verbundenen Kontakt ändern";
 
 /* sample email message to share
    sample text message */
 "Check out the new version of the iPhone app named FriendCash. Spread the word!" = "Schau dir die neue Version der iPhone-App FriendCash an. Erzähl es weiter!";
 
 /* table view footer description that define briefly what can be done with the cloud feature */
-"CloudSumup" = "Verwende Dropbox, um Ereignisse zu sichern und zwischen verscheidenen Geräten zu synchronisieren. Wähle einfach aus, welche Ereignisse in der Cloud gespeichert werden sollen.";
+"CloudSumup" = "Verwende Dropbox um Ereignisse zu sichern und zwischen verscheidenen Geräten zu synchronisieren. Wähle einfach aus, welche Ereignisse in der Cloud gespeichert werden sollen.";
 
 /* placeholder text, just before enabling the cloud feature */
-"CloudTeaserSentence" = "Sichere, syncronisiere und teile deine Ereignisse zwischen unterschiedlichen Geräten.\n\nAlles was du brauchst, ist ein Dropbox-Account!";
+"CloudTeaserSentence" = "Sichere, synchronisiere und teile deine Ereignisse zwischen unterschiedlichen Geräten.\n\nAlles was du brauchst, ist ein Dropbox-Account!";
 
 /* No comment provided by engineer. */
 "Comment" = "Kommentar";
@@ -160,7 +160,7 @@
 
 /* alert description */
 "Do you really want to delete the event \
-from the Cloud ? This operation will leave intact the local copy on your device." = "Soll das Ereignis wirklich aus der Cloud gelöscht werden? Die lokale Kopie des Ereignisses bleibt erhalten.";
+from the Cloud ? This operation will leave intact the local copy on your device." = "Soll das Ereignis wirklich aus der Cloud gelöscht werden? Die lokale Kopie des Ereignis bleibt erhalten.";
 
 /* alert description */
 "Do you really want to import the data found from a previous version ?" = "Sollen wirklich die Daten von einer Vorgängerversion importieren werden?";
@@ -184,7 +184,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Events" = "Ereignisse";
 
 /* table view header title (note: needs to be not too long to stay on one line on the iPhone) */
-"Events synced with the Cloud" = "Mit der Cloud syncronisierte Ereignisse";
+"Events synced with the Cloud" = "Mit der Cloud synchronisierte Ereignisse";
 
 /* alert title */
 "Exchange Rate" = "Welchselkurs";
@@ -226,7 +226,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Generating Report" = "Bericht generieren";
 
 /* table view footer description */
-"Give the app a five star review on the App Store to help us adding more free features" = "Gefällt dir die App? Mit einer 5-Sterne-Bewertung im App Store kannst du uns helfen und so Entwicklung weiterer kostenloser Funktionen unterstützten.";
+"Give the app a five star review on the App Store to help us adding more free features" = "Gefällt dir die App? Mit einer 5-Sterne Bewertung im App Store kannst du uns helfen und die Entwicklung weiterer kostenloser Funktionen unterstützten.";
 
 /* summary email */
 "have participated to the event %@" = "haben am Ereignis %@ teilgenommen";
@@ -325,13 +325,13 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature1_Image_iPhone" = "NewFeature1_v2.2.png";
 
 /* New Features 1 - Subtext - v2.2 */
-"NewFeature1_Subtext" = "Ereignis auf Dropbox hochladen und den Ordner wie jeden anderen Dropbox-Ordner teilen.";
+"NewFeature1_Subtext" = "Ereignis einfach auf Dropbox hochladen und den Ordner wie jeden anderen Dropbox-Ordner teilen.";
 
 /* New Features 1 - Text - v2.2 */
-"NewFeature1_Text" = "Jetzt kannst du Ereignisse mit Leuten deiner Wahl teilen";
+"NewFeature1_Text" = "Jetzt kannst du Ereignis mit Leuten deiner Wahl teilen.";
 
 /* New Features 1 - Title - v2.2 */
-"NewFeature1_Title" = "Ein GROßER Schritt für FriendCash!\nVerwende Dropbox zum Teilen der Daten";
+"NewFeature1_Title" = "Neue Funktion:\nVerwende Dropbox zum Teilen der Daten!";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature2_Image_iPad" = "NewFeature2_v2.2@2x.png";
@@ -343,10 +343,10 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature2_Subtext" = "Es wird eine öffentliche, zufällige URL generiert, die du an deine Freunde schicken kannst. Damit kann jeder die Ausgaben im Detail sehen, sogar ohne iOS-Gerät.";
 
 /* New Features 2 - Text - v2.2 */
-"NewFeature2_Text" = "Ein Tipp auf \"Vollständigen Bericht generieren\"";
+"NewFeature2_Text" = "\"Vollständigen Bericht generieren\"";
 
 /* New Features 2 - Title - v2.2 */
-"NewFeature2_Title" = "Neues Teilen im Web!";
+"NewFeature2_Title" = "Online Berichte erstellen!";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature3_Image_iPad" = "NewFeature3_v2.2@2x.png";
@@ -358,10 +358,10 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature3_Subtext" = "Du wünscht dir eine neue Funktion, hast einen Fehler gefunden oder willst einfach Hallo sagen? Wir freuen uns über jede Nachricht!";
 
 /* New Features 3 - Text - v2.2 */
-"NewFeature3_Text" = "Die einzige Möglichkeit für uns, um zu wissen, ob du zufrieden bist.";
+"NewFeature3_Text" = "Die einzige Möglichkeit für uns um zu wissen ob du zufrieden bist.";
 
 /* New Features 3 - Title - v2.2 */
-"NewFeature3_Title" = "Feedback geben :)";
+"NewFeature3_Title" = "Feedback senden :)";
 
 /* No comment provided by engineer. */
 "No" = "Nein";
@@ -430,7 +430,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "pick an event" = "Ereignis auswählen";
 
 /* table view footer description */
-"Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Wähle die Zahl an Dezimalstellen, die in der App angezeigt werden sollen. Dies betrifft nur die Anzeige und nicht die interne Rechengenauigkeit.";
+"Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Wähle die Anzahl der Dezimalstellen die in der App angezeigt werden soll. Dies betrifft nur die Anzeige und nicht die interne Rechengenauigkeit.";
 
 /* Pull down to refresh status */
 "Pull down to refresh..." = "Ziehen zum Neuladen...";
@@ -469,7 +469,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Selection" = "Auswahl";
 
 /* alert description */
-"Set how much %@ paid back %@" = "Wie viel hat %1$@ %2$@ zurückgezahlt?";
+"Set how much %@ paid back %@" = "Wie viel hat %1$@ an %2$@ zurückgezahlt?";
 
 /* alert title */
 "Shared events" = "Geteilte Ereignisse";
@@ -484,13 +484,13 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Sorry but we can't find any data from previous version of FriendCash..." = "Entschuldigung, aber es wurden keine Daten einer vorherigen Version von FriedCash gefunden...";
 
 /* No comment provided by engineer. */
-"Sum up" = "Zusammenzählen";
+"Sum up" = "Zusammenfassung";
 
 /* No comment provided by engineer. */
-"Tell by email" = "Per Mail weitersagen";
+"Tell by email" = "Per Mail empfehlen";
 
 /* No comment provided by engineer. */
-"Tell by SMS" = "Per SMS weitersagen";
+"Tell by SMS" = "Per SMS empfehlen";
 
 /* action sheet title */
 "Tell your friends about FriendCash" = "Deinen Freunden von FriendCash erzählen";
@@ -551,8 +551,8 @@ und nur die aktuellste Version zu behalten.";
 "We did not found the exchange rates for some of the currencies \
 you are using in this event. Please enter the currency rate by \
 editing the event properties with the above \"Edit\" button." = "Die Wechselkurse für einge der Währungen in diesem Ereignis wurden nicht gefunden. \
-Bitte gib den Wechselkurs ein, indem die die Ereignis-Eigenschaften \
-über den \"Bearbeiten\"-Knopf aufrufst.";
+Bitte gib den Wechselkurs ein, indem du die Ereignis- \
+Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 
 /* user can modify the date of the expense */
 "When ? " = "Wann? ";

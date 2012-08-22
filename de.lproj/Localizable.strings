@@ -160,7 +160,7 @@
 
 /* alert description */
 "Do you really want to delete the event \
-from the Cloud ? This operation will leave intact the local copy on your device." = "Soll das Ereignis wirklich aus der Cloud gelöscht werden? Die lokale Kopie des Ereignis bleibt erhalten.";
+from the Cloud ? This operation will leave intact the local copy on your device." = "Soll das Ereignis wirklich aus der Cloud gelöscht werden? Die lokale Kopie des Ereignisses bleibt erhalten.";
 
 /* alert description */
 "Do you really want to import the data found from a previous version ?" = "Sollen wirklich die Daten von einer Vorgängerversion importieren werden?";
@@ -202,7 +202,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "First thing to do, add an event!" = "Als erstes: Ein Ereignis hinzufügen!";
 
 /* bubble tip message */
-"First you need to add the friends involved in your event %@" = "Zunächst muss du die Freunde auswählen und hinzufügen die an dem Ergeniss beteiligt sind.";
+"First you need to add the friends involved in your event %@" = "Zunächst muss du die Freunde auswählen und hinzufügen die an dem Ergenis beteiligt sind.";
 
 /* user can precise the reason of the expense */
 "For what ?" = "Für was?";
@@ -385,7 +385,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NotificationMissingEmailAddressTitle" = "E-Mailzusammenfassung";
 
 /* alert description */
-"NotificationPersistenceStoreCorruptedDescription" = "Es scheint, dass die App-Daten fehlerhaft sind, bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies funktioniert, installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
+"NotificationPersistenceStoreCorruptedDescription" = "Es scheint, dass die App-Daten fehlerhaft sind, bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktioniert, installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
 
 /* alert title */
 "NotificationPersistenceStoreCorruptedTitle" = "Entschuldigung";
@@ -521,7 +521,7 @@ Der Sync wird unterbrochen, bis der Konflikt behoben ist. Bitte nutze das Suchfe
 und nur die aktuellste Version zu behalten.";
 
 /* alert description */
-"There is no file compatible with this version of FriendCash in the directory '%@'" = "Im Ordner '%@' wurde keine mit dieser FriendCash-Version kompatible Datei gefunden";
+"There is no file compatible with this version of FriendCash in the directory '%@'" = "Im Ordner \"%@\" wurde keine mit dieser FriendCash-Version kompatible Datei gefunden";
 
 /* No comment provided by engineer. */
 "Title" = "Titel";
@@ -573,5 +573,5 @@ Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 "You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "Du musst einen gültigen Mail-Account auf diesem Gerät konfigurieren, um dieses Funktion nutzen zu können. Dann funktioniert wie von alleine!";
 
 /* No comment provided by engineer. */
-"You're receiving this email because you were listed as a participant of an event by one of your friend." = "Du erhälst diese Mail, weil du als Teilnehmer eines Ereignis einer deiner Freunde aufgeführt wurdest.";
+"You're receiving this email because you were listed as a participant of an event by one of your friend." = "Du erhälst diese Mail, weil du als Teilnehmer eines Ereignisses einer deiner Freunde aufgeführt wurdest.";
 

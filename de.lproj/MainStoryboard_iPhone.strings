@@ -246,7 +246,7 @@
 "T2r-V7-RY4.placeholder" = "0,00";
 
 /* Class = "IBUILabel"; text = "Currency"; ObjectID = "TBl-ef-ep4"; */
-"TBl-ef-ep4.text" = "Wähhrung";
+"TBl-ef-ep4.text" = "Währung";
 
 /* Class = "IBUILabel"; text = "Detail"; ObjectID = "TWR-EY-XZh"; */
 "TWR-EY-XZh.text" = "Detail";
@@ -288,7 +288,7 @@
 "bez-ZI-rTv.text" = "Titel";
 
 /* Class = "IBUILabel"; text = "last modification date"; ObjectID = "cAU-S8-Ulm"; */
-"cAU-S8-Ulm.text" = "lestze Änderung";
+"cAU-S8-Ulm.text" = "letzte Änderung";
 
 /* Class = "IBUILabel"; text = "Request a feature"; ObjectID = "cUM-Lp-yUk"; */
 "cUM-Lp-yUk.text" = "Funktion vorschlagen";

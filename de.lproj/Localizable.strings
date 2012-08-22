@@ -160,7 +160,7 @@
 
 /* alert description */
 "Do you really want to delete the event \
-from the Cloud ? This operation will leave intact the local copy on your device." = "Soll das Ereignis wirklich aus der Cloud gelöscht werden? Die lokale Kopie des Ereignis bleibt erhalten.";
+from the Cloud ? This operation will leave intact the local copy on your device." = "Soll das Ereignis wirklich aus der Cloud gelöscht werden? Die lokale Kopie des Ereignisses bleibt erhalten.";
 
 /* alert description */
 "Do you really want to import the data found from a previous version ?" = "Sollen wirklich die Daten von einer Vorgängerversion importieren werden?";
@@ -202,7 +202,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "First thing to do, add an event!" = "Als erstes: Ein Ereignis hinzufügen!";
 
 /* bubble tip message */
-"First you need to add the friends involved in your event %@" = "Zunächst muss du die Freunde auswählen und hinzufügen, die an dem Ereignis beteiligt sind.";
+"First you need to add the friends involved in your event %@" = "Zunächst muss du die Freunde auswählen und hinzufügen die an dem Ergenis beteiligt sind.";
 
 /* user can precise the reason of the expense */
 "For what ?" = "Für was?";
@@ -385,7 +385,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NotificationMissingEmailAddressTitle" = "E-Mail-Zusammenfassung";
 
 /* alert description */
-"NotificationPersistenceStoreCorruptedDescription" = "Es scheint, dass die App-Daten fehlerhaft sind, bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktionieren, installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
+"NotificationPersistenceStoreCorruptedDescription" = "Es scheint, dass die App-Daten fehlerhaft sind, bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktioniert, installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
 
 /* alert title */
 "NotificationPersistenceStoreCorruptedTitle" = "Entschuldigung";

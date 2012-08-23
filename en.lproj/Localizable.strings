@@ -1,3 +1,6 @@
+/* No comment provided by engineer. */
+"$ 20.13" = "$ 20.13";
+
 /* use in the html expense summary for 'Pierre (2)' */
 "%@ (%d), " = "%1$@ (%2$d), ";
 
@@ -9,6 +12,9 @@
 
 /* alert message (for the currency exchange rate) */
 "%@ = ? %@" = "%1$@ = ? %2$@";
+
+/* email report main title */
+"%@ Report" = "%@ Report";
 
 /* use in the html summary */
 "%@ gave back %@ to %@" = "%1$@ gave back %3$@ to %2$@";
@@ -28,9 +34,6 @@
 /* action sheet title */
 "%@ paid back %@ ?" = "%1$@ paid back %2$@ ?";
 
-/* email report main title */
-"%@ Report" = "%@ Report";
-
 /* summary email main title */
 "%@ summary" = "%@ summary";
 
@@ -49,8 +52,32 @@
 /* alert description */
 "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?";
 
+/* No comment provided by engineer. */
+"0" = "0";
+
+/* No comment provided by engineer. */
+"0,00" = "0,00";
+
+/* No comment provided by engineer. */
+"1" = "1";
+
+/* No comment provided by engineer. */
+"12" = "12";
+
+/* No comment provided by engineer. */
+"2" = "2";
+
+/* No comment provided by engineer. */
+"3" = "3";
+
+/* No comment provided by engineer. */
+"<No Text>" = "Tab1";
+
 /* alert description (for currency exchange rates */
 "? %@ = %@" = "? %1$@ = %2$@";
+
+/* No comment provided by engineer. */
+"About" = "About";
 
 /* No comment provided by engineer. */
 "AccountNeededDescription" = "You need an FriendCash account to activate this feature";
@@ -68,16 +95,22 @@
 "Add a new expense just right here" = "Add a new expense just right here";
 
 /* No comment provided by engineer. */
+"Add an event to the Cloud" = "Add an event to the Cloud";
+
+/* No comment provided by engineer. */
+"Add friends from Contacts" = "Add friends from Contacts";
+
+/* No comment provided by engineer. */
+"Add these friends" = "Add these friends";
+
+/* No comment provided by engineer. */
 "All events" = "All events";
 
 /* bubble tip message */
 "All the expenses linked to the event %@ will be here" = "All the expenses linked to the event %@ will be here";
 
 /* No comment provided by engineer. */
-"already added" = "already added";
-
-/* table view cell detail text */
-"already synced" = "already synced";
+"Archive this event" = "Archive this event";
 
 /* alert description */
 "AskForEventDeleteConfirmationDescription" = "Be careful, this operation cannot be undone. Are you sure you want to delete this event ?";
@@ -88,17 +121,14 @@
 /* No comment provided by engineer. */
 "Auto backup" = "Auto backup";
 
-/* summary email */
-"available on the App Store" = "available on the App Store";
-
 /* alert description */
 "Before adding an expense you actually need to add some friends" = "Before adding an expense you actually need to add some friends";
 
 /* No comment provided by engineer. */
-"Cancel" = "Cancel";
+"Button" = "Button";
 
-/* table view cell title */
-"cash balance" = "cash balance";
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
 
 /* button title */
 "Change the Contact associated" = "Change the Contact associated";
@@ -106,6 +136,9 @@
 /* sample email message to share
    sample text message */
 "Check out the new version of the iPhone app named FriendCash. Spread the word!" = "Check out the new version of the iPhone app named FriendCash. Spread the word!";
+
+/* No comment provided by engineer. */
+"Cloud" = "Cloud";
 
 /* table view footer description that define briefly what can be done with the cloud feature */
 "CloudSumup" = "Backup and synchronize your events between devices with Dropbox. Just indicate to FriendCash the events you want on the Cloud.";
@@ -125,6 +158,9 @@
 /* alert title */
 "Conflict files on Dropbox" = "Conflict files on Dropbox";
 
+/* No comment provided by engineer. */
+"Conflicts" = "Conflicts";
+
 /* button title */
 "Connect to Dropbox" = "Connect to Dropbox";
 
@@ -138,6 +174,12 @@
 "Copy Link" = "Copy Link";
 
 /* No comment provided by engineer. */
+"Cur" = "Cur";
+
+/* No comment provided by engineer. */
+"Currencies" = "Currencies";
+
+/* No comment provided by engineer. */
 "Currency" = "Currency";
 
 /* alert title */
@@ -145,6 +187,9 @@
 
 /* alert title */
 "Data import" = "Data import";
+
+/* No comment provided by engineer. */
+"Decimal precision" = "Decimal precision";
 
 /* alert title */
 "Delete" = "Delete";
@@ -154,6 +199,9 @@
 
 /* loading label (note: needs to be short to avoid truncating words) */
 "Deleting event" = "Deleting event";
+
+/* No comment provided by engineer. */
+"Detail" = "Detail";
 
 /* No comment provided by engineer. */
 "Dismiss" = "Dismiss";
@@ -169,17 +217,26 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* action sheet title */
 "Do you want to remove it from the Cloud too ?" = "Do you want to remove it from the Cloud too ?";
 
+/* No comment provided by engineer. */
+"Download" = "Download";
+
 /* loading label title (note: needs to be short to avoid truncating words */
 "Downloading..." = "Downloading...";
 
 /* alert title */
 "Dropbox disconnected" = "Dropbox disconnected";
 
-/* report link */
-"email sent from FriendCash" = "email sent from FriendCash";
+/* No comment provided by engineer. */
+"Enable sound" = "Enable sound";
 
 /* No comment provided by engineer. */
 "Event" = "Event";
+
+/* No comment provided by engineer. */
+"Event name" = "Event name";
+
+/* No comment provided by engineer. */
+"EventName" = "EventName";
 
 /* No comment provided by engineer. */
 "Events" = "Events";
@@ -199,17 +256,32 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Expenses" = "Expenses";
 
+/* No comment provided by engineer. */
+"FEB" = "FEB";
+
+/* No comment provided by engineer. */
+"Feras paid" = "Feras paid";
+
+/* No comment provided by engineer. */
+"First" = "First";
+
 /* bubble tip message */
 "First thing to do, add an event!" = "First thing to do, add an event!";
 
 /* bubble tip message */
 "First you need to add the friends involved in your event %@" = "First you need to add the friends involved in your event %@";
 
+/* No comment provided by engineer. */
+"FirstName" = "FirstName";
+
 /* user can precise the reason of the expense */
 "For what ?" = "For what ?";
 
 /* No comment provided by engineer. */
 "Friend" = "Friend";
+
+/* No comment provided by engineer. */
+"FriendCash" = "FriendCash";
 
 /* summary email */
 "FriendCash for iPhone and iPod touch" = "FriendCash for iPhone and iPad";
@@ -226,11 +298,17 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* loading label title (note: needs to be short to avoid truncating words) */
 "Generating Report" = "Generating Report";
 
+/* No comment provided by engineer. */
+"Get an event from the Cloud" = "Get an event from the Cloud";
+
+/* No comment provided by engineer. */
+"Give feedback" = "Give feedback";
+
 /* table view footer description */
 "Give the app a five star review on the App Store to help us adding more free features" = "You like the app ? Give the app a five star review on the App Store to help us adding more free features";
 
-/* summary email */
-"have participated to the event %@" = "have participated to the event %@";
+/* No comment provided by engineer. */
+"Help" = "Help";
 
 /* bubble tip message */
 "Here %@ is balanced with the group" = "Here %@ is balanced with the group";
@@ -250,11 +328,26 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* summary email */
 "How to balance ?" = "How to balance ?";
 
-/* report link */
-"http://www.friendcashapp.com/en/report/%@" = "http://www.friendcashapp.com/en/report/%@";
+/* No comment provided by engineer. */
+"ICloud" = "ICloud";
+
+/* No comment provided by engineer. */
+"ITunesURL" = "http://www.friendcashapp.com/en/appstore";
 
 /* rate alert description */
 "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!";
+
+/* No comment provided by engineer. */
+"Import Data from v1" = "Import Data from v1";
+
+/* No comment provided by engineer. */
+"Import iCloud Data from v2" = "Import iCloud Data from v2";
+
+/* No comment provided by engineer. */
+"Import your data" = "Import your data";
+
+/* No comment provided by engineer. */
+"Import your iCloud data" = "Import your iCloud data";
 
 /* user can specify in which event the expense will be added (note that it has to be short) */
 "In event ?" = "In event ?";
@@ -262,14 +355,11 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* email subject */
 "Invitation to use the iPhone app FriendCash" = "Invitation to use the iPhone app FriendCash";
 
-/* table view footer description */
-"involved in %d expenses" = "involved in %d expenses";
-
-/* No comment provided by engineer. */
-"ITunesURL" = "http://www.friendcashapp.com/en/appstore";
-
 /* destructive button title */
 "Keep on the Cloud" = "Keep on the Cloud";
+
+/* No comment provided by engineer. */
+"Label" = "Label";
 
 /* button title */
 "Link to one of your Contact" = "Link to one of your Contact";
@@ -280,14 +370,11 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* loading label title (note: needs to be short to avoid truncating words) */
 "Loading from Dropbox" = "Loading from Dropbox";
 
-/* loading text */
-"loading your data..." = "loading your data...";
-
 /* Loading Status */
 "Loading..." = "Loading...";
 
 /* No comment provided by engineer. */
-"locked" = "locked";
+"Local symbol" = "Local symbol";
 
 /* No comment provided by engineer. */
 "Mail Link to this Page" = "Mail Link to this Page";
@@ -307,6 +394,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* loading label title (note: needs to be short to avoid truncating words) */
 "Moving files" = "Moving files";
 
+/* No comment provided by engineer. */
+"Name" = "Name";
+
 /* alert title */
 "Need friends..." = "Need friends...";
 
@@ -318,6 +408,12 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 
 /* No comment provided by engineer. */
 "New Expense" = "New Expense";
+
+/* No comment provided by engineer. */
+"New event" = "New event";
+
+/* No comment provided by engineer. */
+"New features tour" = "New features tour";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature1_Image_iPad" = "NewFeature1_v2.2@2x.png";
@@ -365,10 +461,22 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature3_Title" = "Give feedbacks :)";
 
 /* No comment provided by engineer. */
+"Next" = "Next";
+
+/* No comment provided by engineer. */
 "No" = "No";
 
-/* subtitle on the friend profile view */
-"no email address specified" = "no email address specified";
+/* No comment provided by engineer. */
+"No Event" = "No Event";
+
+/* No comment provided by engineer. */
+"No Friend" = "No Friend";
+
+/* No comment provided by engineer. */
+"No expense" = "No expense";
+
+/* No comment provided by engineer. */
+"No friend" = "No friend";
 
 /* used when there is no name set for an event */
 "No name" = "No name";
@@ -401,13 +509,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Operation Failed" = "Operation Failed";
 
 /* No comment provided by engineer. */
-"owes" = "owes";
-
-/* No comment provided by engineer. */
-"paid" = "paid";
-
-/* table view cell title */
-"paid by %@" = "paid by %@";
+"Ordinator" = "Ordinator";
 
 /* alert title */
 "Partial reimbursement" = "Partial reimbursement";
@@ -418,26 +520,35 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Pay back" = "Pay back";
 
-/* table view cell title */
-"personal cost" = "personal cost";
+/* No comment provided by engineer. */
+"Pick Some Friends" = "Pick Some Friends";
 
 /* No comment provided by engineer. */
 "Pick a friend" = "Pick a friend";
 
 /* No comment provided by engineer. */
-"pick a friend" = "pick a friend";
-
-/* table view cell subtitle */
-"pick an event" = "pick an event";
+"Pick friends" = "Pick friends";
 
 /* table view footer description */
 "Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy.";
+
+/* No comment provided by engineer. */
+"Precision" = "Precision";
+
+/* No comment provided by engineer. */
+"Prefs" = "Prefs";
+
+/* No comment provided by engineer. */
+"Previous" = "Previous";
 
 /* Pull down to refresh status */
 "Pull down to refresh..." = "Pull down to refresh...";
 
 /* rate alert title */
 "Rate %@" = "Rate %@";
+
+/* No comment provided by engineer. */
+"Rate the app" = "Rate the app";
 
 /* alert description */
 "ReachabilityDescription" = "ReachabilityDescription";
@@ -451,17 +562,35 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* alert title */
 "ReachabilityTitle" = "ReachabilityTitle";
 
+/* No comment provided by engineer. */
+"Receptor" = "Receptor";
+
 /* Release to refresh status */
 "Release to refresh..." = "Release to refresh...";
 
 /* rate button title (reminds the user sometimes later) */
 "Remind me later" = "Remind me later";
 
+/* No comment provided by engineer. */
+"Request a feature" = "Request a feature";
+
+/* No comment provided by engineer. */
+"Resolve the conflicts" = "Resolve the conflicts";
+
+/* No comment provided by engineer. */
+"Résoudre les conflits" = "Résoudre les conflits";
+
 /* alert description */
 "Sadely, your account is not linked anymore. Enable it again please :)" = "Sadely, your account is not linked anymore. Enable it again please :)";
 
 /* No comment provided by engineer. */
 "Save" = "Save";
+
+/* No comment provided by engineer. */
+"Search" = "Search";
+
+/* No comment provided by engineer. */
+"Search a currency" = "Search a currency";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
 "Searching for shared events" = "Searching for shared events";
@@ -471,6 +600,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 
 /* alert description */
 "Set how much %@ paid back %@" = "Set how much %1$@ paid back %2$@";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
 
 /* alert title */
 "Shared events" = "Shared events";
@@ -488,16 +620,16 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Sum up" = "Sum up";
 
 /* No comment provided by engineer. */
+"Tell by SMS" = "Tell by SMS";
+
+/* No comment provided by engineer. */
 "Tell by email" = "Tell by email";
 
 /* No comment provided by engineer. */
-"Tell by SMS" = "Tell by SMS";
+"Tell your friends" = "Tell your friends";
 
 /* action sheet title */
 "Tell your friends about FriendCash" = "Tell your friends about FriendCash";
-
-/* table view footer description */
-"the amounts are computing for the event \"%@\"" = "the amounts are computing for the event \"%@\"";
 
 /* summary email */
 "The expenses list" = "The expenses list";
@@ -528,7 +660,7 @@ the duplicates and only keep the most recent version.";
 "Title" = "Title";
 
 /* No comment provided by engineer. */
-"to" = "to";
+"To resolve a conflict select the friend in the list below to link him/her to one of your Address Book contact. This is the best pratice, recommanded by the developer, to use all the potential of FriendCash." = "To resolve a conflict select the friend in the list below to link him/her to one of your Address Book contact. This is the best pratice, recommanded by the developer, to use all the potential of FriendCash.";
 
 /* No comment provided by engineer. */
 "Today" = "Today";
@@ -537,10 +669,13 @@ the duplicates and only keep the most recent version.";
 "Total" = "Total";
 
 /* No comment provided by engineer. */
-"unlock" = "unlock";
+"Update" = "Update";
 
 /* No comment provided by engineer. */
-"Update" = "Update";
+"Upload" = "Upload";
+
+/* No comment provided by engineer. */
+"Upload event" = "Upload event";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
 "Uploading..." = "Uploading...";
@@ -555,14 +690,14 @@ editing the event properties with the above \"Edit\" button." = "We did not foun
 you are using in this event. Please enter the currency rate by \
 editing the event properties with the above \"Edit\" button.";
 
+/* No comment provided by engineer. */
+"When ?" = "When ?";
+
 /* user can modify the date of the expense */
 "When ? " = "When ? ";
 
 /* user can choose who paid the expense */
 "Who paid ?" = "Who paid ?";
-
-/* placeholder text for the note associated to an expense */
-"write a short note" = "write a short note";
 
 /* No comment provided by engineer. */
 "Yes" = "Yes";
@@ -576,3 +711,101 @@ editing the event properties with the above \"Edit\" button.";
 /* No comment provided by engineer. */
 "You're receiving this email because you were listed as a participant of an event by one of your friend." = "You're receiving this email because you were listed as a participant of an event by one of your friend.";
 
+/* No comment provided by engineer. */
+"already added" = "already added";
+
+/* table view cell detail text */
+"already synced" = "already synced";
+
+/* summary email */
+"available on the App Store" = "available on the App Store";
+
+/* table view cell title */
+"cash balance" = "cash balance";
+
+/* No comment provided by engineer. */
+"comment" = "comment";
+
+/* No comment provided by engineer. */
+"desc" = "desc";
+
+/* No comment provided by engineer. */
+"detail" = "detail";
+
+/* report link */
+"email sent from FriendCash" = "email sent from FriendCash";
+
+/* No comment provided by engineer. */
+"from a previous version of FriendCash" = "from a previous version of FriendCash";
+
+/* summary email */
+"have participated to the event %@" = "have participated to the event %@";
+
+/* No comment provided by engineer. */
+"http://" = "http://";
+
+/* report link */
+"http://www.friendcashapp.com/en/report/%@" = "http://www.friendcashapp.com/en/report/%@";
+
+/* table view footer description */
+"involved in %d expenses" = "involved in %d expenses";
+
+/* No comment provided by engineer. */
+"last modification date" = "last modification date";
+
+/* loading text */
+"loading your data..." = "loading your data...";
+
+/* No comment provided by engineer. */
+"local description" = "local description";
+
+/* No comment provided by engineer. */
+"locked" = "locked";
+
+/* subtitle on the friend profile view */
+"no email address specified" = "no email address specified";
+
+/* No comment provided by engineer. */
+"owes" = "owes";
+
+/* No comment provided by engineer. */
+"paid" = "paid";
+
+/* table view cell title */
+"paid by %@" = "paid by %@";
+
+/* table view cell title */
+"personal cost" = "personal cost";
+
+/* No comment provided by engineer. */
+"pick a friend" = "pick a friend";
+
+/* table view cell subtitle */
+"pick an event" = "pick an event";
+
+/* No comment provided by engineer. */
+"pizza and coke" = "pizza and coke";
+
+/* No comment provided by engineer. */
+"remind me..." = "remind me...";
+
+/* No comment provided by engineer. */
+"subtitle" = "subtitle";
+
+/* table view footer description */
+"the amounts are computing for the event \"%@\"" = "the amounts are computing for the event \"%@\"";
+
+/* No comment provided by engineer. */
+"to" = "to";
+
+/* No comment provided by engineer. */
+"unlock" = "unlock";
+
+/* No comment provided by engineer. */
+"v #" = "v #";
+
+/* No comment provided by engineer. */
+"website" = "website";
+
+/* placeholder text for the note associated to an expense */
+"write a short note" = "write a short note";

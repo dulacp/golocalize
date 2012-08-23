@@ -1,0 +1,3 @@
+[submodule "pygenstrings"]
+	path = pygenstrings
+	url = git@github.com:peteralaoui/pygenstrings.git

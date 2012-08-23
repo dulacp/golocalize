@@ -95,6 +95,9 @@
 "Add a new expense just right here" = "Neue Ausgabe genau hier hinzufügen";
 
 /* No comment provided by engineer. */
+"Add an event" = "Ereignis hinzufügen";
+
+/* No comment provided by engineer. */
 "Add an event to the Cloud" = "Ereignis zur Cloud hinzufügen";
 
 /* No comment provided by engineer. */
@@ -216,9 +219,6 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* action sheet title */
 "Do you want to remove it from the Cloud too ?" = "Soll es auch aus der Cloud gelöscht werden?";
 
-/* No comment provided by engineer. */
-"Download" = "Download";
-
 /* loading label title (note: needs to be short to avoid truncating words */
 "Downloading..." = "Herunterladen...";
 
@@ -294,6 +294,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Friends" = "Freunde";
 
+/* button title */
+"Generate full report" = "Generate full report";
+
 /* loading label title (note: needs to be short to avoid truncating words) */
 "Generating Report" = "Bericht erstellen";
 
@@ -328,7 +331,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "How to balance ?" = "Wie ausgleichen?";
 
 /* No comment provided by engineer. */
-"ICloud" = "iCloud";
+"ICloud" = "Cloud";
 
 /* No comment provided by engineer. */
 "ITunesURL" = "http://www.friendcashapp.com/de/appstore";
@@ -483,9 +486,6 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* rate button title (never bother the user again) */
 "No, thanks" = "Nein danke";
 
-/* rate button (take the user to the app store page) */
-"Notez Maintenant" = "Jetzt";
-
 /* alert description */
 "NotificationMissingEmailAddressDescription" = "Einige Mail-Adressen fehlen, nicht alle Teilnehmer werden die Mail erhalten";
 
@@ -546,6 +546,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* rate alert title */
 "Rate %@" = "Bewerten %@";
 
+/* rate button (take the user to the app store page) */
+"Rate now" = "Jetzt";
+
 /* No comment provided by engineer. */
 "Rate the app" = "App bewerten";
 
@@ -575,9 +578,6 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 
 /* No comment provided by engineer. */
 "Resolve the conflicts" = "Konflikte beheben";
-
-/* No comment provided by engineer. */
-"Résoudre les conflits" = "Konflikte beheben";
 
 /* alert description */
 "Sadely, your account is not linked anymore. Enable it again please :)" = "Leider ist dein Account nicht mehr verbunden. Bitte aktiviere ihn wieder :)";
@@ -689,11 +689,8 @@ editing the event properties with the above \"Edit\" button." = "Die Wechselkurs
 Bitte gib den Wechselkurs ein, indem du die Ereignis- \
 Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 
-/* No comment provided by engineer. */
-"When ?" = "Wann?";
-
 /* user can modify the date of the expense */
-"When ? " = "Wann? ";
+"When ?" = "Wann?";
 
 /* user can choose who paid the expense */
 "Who paid ?" = "Wer hat bezahlt?";

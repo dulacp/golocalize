@@ -11,7 +11,7 @@
 "%@ = ? %@" = "%1$@ = ? %2$@";
 
 /* use in the html summary */
-"%@ gave back %@ to %@" = "%1$@ hat %2$@ an %3$@ zurückgegeben";
+"%@ gave back %@ to %@" = "%1$@ hat %2$@ an %3$@ zurückgezahlt";
 
 /* summary email */
 "%@ owes %@ to %@" = "%1$@ schuldet %2$@ an %3$@";
@@ -223,7 +223,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Friends" = "Freunde";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
-"Generating Report" = "Bericht generieren";
+"Generating Report" = "Bericht erstellen";
 
 /* table view footer description */
 "Give the app a five star review on the App Store to help us adding more free features" = "Gefällt dir die App? Mit einer 5-Sterne Bewertung im App Store kannst du uns helfen und die Entwicklung weiterer kostenloser Funktionen unterstützten.";
@@ -325,7 +325,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature1_Image_iPhone" = "NewFeature1_v2.2.png";
 
 /* New Features 1 - Subtext - v2.2 */
-"NewFeature1_Subtext" = "Ereignis einfach auf Dropbox hochladen und den Ordner wie jeden anderen Dropbox-Ordner teilen.";
+"NewFeature1_Subtext" = "Ereignis einfach auf Dropbox hochladen und wie jeden anderen Dropbox-Ordner teilen.";
 
 /* New Features 1 - Text - v2.2 */
 "NewFeature1_Text" = "Jetzt kannst du Ereignis mit Leuten deiner Wahl teilen.";
@@ -385,7 +385,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NotificationMissingEmailAddressTitle" = "E-Mail-Zusammenfassung";
 
 /* alert description */
-"NotificationPersistenceStoreCorruptedDescription" = "Es scheint, dass die App-Daten fehlerhaft sind, bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktioniert, installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
+"NotificationPersistenceStoreCorruptedDescription" = "Es scheint, dass die App-Daten fehlerhaft sind. Bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktionieren installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
 
 /* alert title */
 "NotificationPersistenceStoreCorruptedTitle" = "Entschuldigung";
@@ -463,7 +463,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Save" = "Sichern";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
-"Searching for shared events" = "Nach geteilten Ereignissen suchen";
+"Searching for shared events" = "Geteilten Ereignissen suchen";
 
 /* No comment provided by engineer. */
 "Selection" = "Auswahl";

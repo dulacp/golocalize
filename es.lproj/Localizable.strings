@@ -49,27 +49,6 @@
 /* alert description */
 "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?";
 
-/* No comment provided by engineer. */
-"0" = "0";
-
-/* No comment provided by engineer. */
-"0,00" = "0,00";
-
-/* No comment provided by engineer. */
-"1" = "1";
-
-/* No comment provided by engineer. */
-"12" = "12";
-
-/* No comment provided by engineer. */
-"2" = "2";
-
-/* No comment provided by engineer. */
-"3" = "3";
-
-/* No comment provided by engineer. */
-"<No Text>" = "Tab1";
-
 /* alert description (for currency exchange rates */
 "? %@ = %@" = "? %1$@ = %2$@";
 
@@ -225,9 +204,6 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 
 /* No comment provided by engineer. */
 "Event name" = "Event name";
-
-/* No comment provided by engineer. */
-"EventName" = "EventName";
 
 /* No comment provided by engineer. */
 "Events" = "Events";

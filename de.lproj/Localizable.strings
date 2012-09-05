@@ -52,25 +52,25 @@
 /* alert description */
 "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "Es wurde(n) %d geteilte Ereigniss(e) gefunden. Möchtest du es/sie in den App-Ordner verschieben?";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed??? */   
 "0" = "0";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed??? */
 "0,00" = "0,00";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed??? */
 "1" = "1";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed??? */
 "12" = "12";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed??? */
 "2" = "2";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed??? */
 "3" = "3";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed??? */
 "<No Text>" = "Tab1";
 
 /* alert description (for currency exchange rates */
@@ -92,7 +92,7 @@
 "Add %d friends" = "%d Freunde hinzufügen";
 
 /* No comment provided by engineer. */
-"Add a new expense just right here" = "Neue Ausgabe genau hier hinzufügen";
+"Add a new expense just right here" = "Hier wird eine neue Ausgabe eingegeben";
 
 /* No comment provided by engineer. */
 "Add an event" = "Ereignis hinzufügen";
@@ -127,7 +127,7 @@
 /* alert description */
 "Before adding an expense you actually need to add some friends" = "Bevor du eine Ausgabe eingibst, musst du erst ein paar Freunde hinzufügen";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.   -- Can this be removed??? */
 "Button" = "Button";
 
 /* No comment provided by engineer. */
@@ -176,7 +176,7 @@
 /* No comment provided by engineer. */
 "Copy Link" = "Link kopieren";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.   -- Can this be removed??? */
 "Cur" = "Cur";
 
 /* No comment provided by engineer. */
@@ -234,7 +234,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Event name" = "Ereignisname";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed??? */
 "EventName" = "Ereignisname";
 
 /* No comment provided by engineer. */
@@ -255,7 +255,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Expenses" = "Ausgaben";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer.  -- Can this be removed???  */
 "FEB" = "FEB";
 
 /* No comment provided by engineer. */
@@ -265,13 +265,13 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "First" = "Erster";
 
 /* bubble tip message */
-"First thing to do, add an event!" = "Als erstes: Ein Ereignis hinzufügen!";
+"First thing to do, add an event!" = "Der erste Schritt: Ein Ereignis hinzufügen!";
 
 /* bubble tip message */
 "First you need to add the friends involved in your event %@" = "Zunächst muss du die Freunde auswählen und hinzufügen die an dem Ergenis beteiligt sind.";
 
-/* No comment provided by engineer. */
-"FirstName" = "FirstName";
+/* No comment provided by engineer.   -- Can this be removed??? */
+"FirstName" = "Vorname";
 
 /* user can precise the reason of the expense */
 "For what ?" = "Für was?";
@@ -295,7 +295,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Friends" = "Freunde";
 
 /* button title */
-"Generate full report" = "Generate full report";
+"Generate full report" = "Vollständigen Bericht erstellen";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
 "Generating Report" = "Bericht erstellen";
@@ -304,7 +304,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Get an event from the Cloud" = "Ereignis aus der Cloud laden";
 
 /* No comment provided by engineer. */
-"Give feedback" = "Feedback geben";
+"Give feedback" = "Feedback senden";
 
 /* table view footer description */
 "Give the app a five star review on the App Store to help us adding more free features" = "Gefällt dir die App? Mit einer 5-Sterne Bewertung im App Store kannst du uns helfen und die Entwicklung weiterer kostenloser Funktionen unterstützten.";
@@ -322,7 +322,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Here the group owes %@ to %@" = "Hier schuldet die Gruppe %1$@ an %2$@";
 
 /* bubble tip message */
-"Here you will be able to know what people owes each other to balance the group" = "Hier siehst du, was sich die Leute einander schulden, um die Gruppe auszugleichen";
+"Here you will be able to know what people owes each other to balance the group" = "Hier siehst du, was sich die Leute einander schulden um die Gruppe auszugleichen";
 
 /* user specify the amount of the expense */
 "How much ?" = "Wie viel?";
@@ -337,7 +337,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "ITunesURL" = "http://www.friendcashapp.com/de/appstore";
 
 /* rate alert description */
-"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Wenn dir %@ gefällt, hast die vielleicht kurz Zeit, die App zu bewerten? Es dauert nicht länger als eine Minute und hilft uns sehr. Danke für deine Unterstützung!";
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Wenn dir %@ gefällt, hast die vielleicht kurz Zeit, die App zu bewerten? Das dauert nicht länger als eine Minute und hilft uns sehr. Danke für deine Unterstützung!";
 
 /* No comment provided by engineer. */
 "Import Data from v1" = "Daten aus v1 importieren";
@@ -417,10 +417,10 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "New features tour" = "Neue Funktionen";
 
-/* New Features 1 - Image iPad - v2.2 */
+/* New Features 1 - Image iPad - v2.2   -- Should be localized by developer ??? */
 "NewFeature1_Image_iPad" = "NewFeature1_v2.2@2x.png";
 
-/* New Features 1 - Image iPhone - v2.2 */
+/* New Features 1 - Image iPhone - v2.2 --  Should be localized by developer ??? */
 "NewFeature1_Image_iPhone" = "NewFeature1_v2.2.png";
 
 /* New Features 1 - Subtext - v2.2 */
@@ -432,10 +432,10 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* New Features 1 - Title - v2.2 */
 "NewFeature1_Title" = "Neue Funktion:\nVerwende Dropbox zum Teilen der Daten!";
 
-/* New Features 1 - Image iPad - v2.2 */
+/* New Features 1 - Image iPad - v2.2  -- Should be localized by developer ??? */
 "NewFeature2_Image_iPad" = "NewFeature2_v2.2@2x.png";
 
-/* New Features 1 - Image iPhone - v2.2 */
+/* New Features 1 - Image iPhone - v2.2  -- Should be localized by developer ??? */
 "NewFeature2_Image_iPhone" = "NewFeature2_v2.2.png";
 
 /* New Features 2 - Subtext - v2.2 */
@@ -447,10 +447,10 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* New Features 2 - Title - v2.2 */
 "NewFeature2_Title" = "Online Berichte erstellen!";
 
-/* New Features 1 - Image iPad - v2.2 */
+/* New Features 1 - Image iPad - v2.2  -- Should be localized by developer ??? */
 "NewFeature3_Image_iPad" = "NewFeature3_v2.2@2x.png";
 
-/* New Features 1 - Image iPhone - v2.2 */
+/* New Features 1 - Image iPhone - v2.2  -- Should be localized by developer ??? */
 "NewFeature3_Image_iPhone" = "NewFeature3_v2.2.png";
 
 /* New Features 3 - Subtext - v2.2 */
@@ -552,16 +552,16 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Rate the app" = "App bewerten";
 
-/* alert description */
+/* alert description    -- Can this be removed??? */
 "ReachabilityDescription" = "ReachabilityDescription";
 
-/* alert description */
+/* alert description    -- Can this be removed??? */
 "ReachabilityServiceDescription" = "ReachabilityServiceDescription";
 
-/* alert title */
+/* alert title   -- Can this be removed???  */
 "ReachabilityServiceTitle" = "ReachabilityServiceTitle";
 
-/* alert title */
+/* alert title    -- Can this be removed??? */
 "ReachabilityTitle" = "ReachabilityTitle";
 
 /* No comment provided by engineer. */

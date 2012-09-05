@@ -52,27 +52,6 @@
 /* alert description */
 "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "%d événement(s) partagés ont été trouvés à un emplacement inhabituel. Souhaitez vous les déplacer dans le dossier de l'application ?";
 
-/* No comment provided by engineer. */
-"0" = "0";
-
-/* No comment provided by engineer. */
-"0,00" = "0,00";
-
-/* No comment provided by engineer. */
-"1" = "1";
-
-/* No comment provided by engineer. */
-"12" = "12";
-
-/* No comment provided by engineer. */
-"2" = "2";
-
-/* No comment provided by engineer. */
-"3" = "3";
-
-/* No comment provided by engineer. */
-"<No Text>" = "Tab1";
-
 /* alert description (for currency exchange rates */
 "? %@ = %@" = "? %1$@ = %2$@";
 
@@ -128,9 +107,6 @@
 "Before adding an expense you actually need to add some friends" = "Avant d'ajouter une dépense vous devez tout d'abord ajouter des amis";
 
 /* No comment provided by engineer. */
-"Button" = "Button";
-
-/* No comment provided by engineer. */
 "Cancel" = "Annuler";
 
 /* button title */
@@ -175,9 +151,6 @@
 
 /* No comment provided by engineer. */
 "Copy Link" = "Copier le lien";
-
-/* No comment provided by engineer. */
-"Cur" = "Cur";
 
 /* No comment provided by engineer. */
 "Currencies" = "Devises";
@@ -236,9 +209,6 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 "Event name" = "Nom de l'événement";
 
 /* No comment provided by engineer. */
-"EventName" = "Ereignisname";
-
-/* No comment provided by engineer. */
 "Events" = "Evénements";
 
 /* table view header title (note: needs to be not too long to stay on one line on the iPhone) */
@@ -257,9 +227,6 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 "Expenses" = "Dépenses";
 
 /* No comment provided by engineer. */
-"FEB" = "FEB";
-
-/* No comment provided by engineer. */
 "Feras paid" = "Feras a payé";
 
 /* No comment provided by engineer. */
@@ -270,9 +237,6 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 
 /* bubble tip message */
 "First you need to add the friends involved in your event %@" = "Tout d'abord, ajoutez des amis impliqués dans cet événement %@";
-
-/* No comment provided by engineer. */
-"FirstName" = "FirstName";
 
 /* user can precise the reason of the expense */
 "For what ?" = "Pour ?";

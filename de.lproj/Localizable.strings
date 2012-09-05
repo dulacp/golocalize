@@ -52,7 +52,12 @@
 /* alert description */
 "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "Es wurde(n) %d geteilte Ereigniss(e) gefunden. Möchtest du es/sie in den App-Ordner verschieben?";
 
+<<<<<<< Updated upstream
 /* No comment provided by engineer.  -- Can this be removed??? */   
+=======
+<<<<<<< Updated upstream
+/* No comment provided by engineer. */
+>>>>>>> Stashed changes
 "0" = "0";
 
 /* No comment provided by engineer.  -- Can this be removed??? */
@@ -73,6 +78,8 @@
 /* No comment provided by engineer.  -- Can this be removed??? */
 "<No Text>" = "Tab1";
 
+=======
+>>>>>>> Stashed changes
 /* alert description (for currency exchange rates */
 "? %@ = %@" = "? %1$@ = %2$@";
 
@@ -127,9 +134,16 @@
 /* alert description */
 "Before adding an expense you actually need to add some friends" = "Bevor du eine Ausgabe eingibst, musst du erst ein paar Freunde hinzufügen";
 
+<<<<<<< Updated upstream
 /* No comment provided by engineer.   -- Can this be removed??? */
+=======
+<<<<<<< Updated upstream
+/* No comment provided by engineer. */
+>>>>>>> Stashed changes
 "Button" = "Button";
 
+=======
+>>>>>>> Stashed changes
 /* No comment provided by engineer. */
 "Cancel" = "Abbruch";
 
@@ -176,9 +190,16 @@
 /* No comment provided by engineer. */
 "Copy Link" = "Link kopieren";
 
+<<<<<<< Updated upstream
 /* No comment provided by engineer.   -- Can this be removed??? */
+=======
+<<<<<<< Updated upstream
+/* No comment provided by engineer. */
+>>>>>>> Stashed changes
 "Cur" = "Cur";
 
+=======
+>>>>>>> Stashed changes
 /* No comment provided by engineer. */
 "Currencies" = "Währungen";
 
@@ -234,9 +255,16 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Event name" = "Ereignisname";
 
+<<<<<<< Updated upstream
 /* No comment provided by engineer.  -- Can this be removed??? */
+=======
+<<<<<<< Updated upstream
+/* No comment provided by engineer. */
+>>>>>>> Stashed changes
 "EventName" = "Ereignisname";
 
+=======
+>>>>>>> Stashed changes
 /* No comment provided by engineer. */
 "Events" = "Ereignisse";
 
@@ -255,9 +283,16 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Expenses" = "Ausgaben";
 
+<<<<<<< Updated upstream
 /* No comment provided by engineer.  -- Can this be removed???  */
+=======
+<<<<<<< Updated upstream
+/* No comment provided by engineer. */
+>>>>>>> Stashed changes
 "FEB" = "FEB";
 
+=======
+>>>>>>> Stashed changes
 /* No comment provided by engineer. */
 "Feras paid" = "Feras hat gezahlt";
 
@@ -270,9 +305,17 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* bubble tip message */
 "First you need to add the friends involved in your event %@" = "Zunächst muss du die Freunde auswählen und hinzufügen die an dem Ergenis beteiligt sind.";
 
+<<<<<<< Updated upstream
 /* No comment provided by engineer.   -- Can this be removed??? */
 "FirstName" = "Vorname";
+=======
+<<<<<<< Updated upstream
+/* No comment provided by engineer. */
+"FirstName" = "FirstName";
+>>>>>>> Stashed changes
 
+=======
+>>>>>>> Stashed changes
 /* user can precise the reason of the expense */
 "For what ?" = "Für was?";
 

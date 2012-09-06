@@ -1,5 +1,5 @@
 /* No comment provided by engineer. */
-"$ 20.13" = "$ 20.13";
+"$ 20.13" = "20.13 €";
 
 /* use in the html expense summary for 'Pierre (2)' */
 "%@ (%d), " = "%1$@ (%2$d), ";
@@ -52,12 +52,7 @@
 /* alert description */
 "%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "Es wurde(n) %d geteilte Ereigniss(e) gefunden. Möchtest du es/sie in den App-Ordner verschieben?";
 
-<<<<<<< Updated upstream
 /* No comment provided by engineer.  -- Can this be removed??? */   
-=======
-<<<<<<< Updated upstream
-/* No comment provided by engineer. */
->>>>>>> Stashed changes
 "0" = "0";
 
 /* No comment provided by engineer.  -- Can this be removed??? */
@@ -78,8 +73,6 @@
 /* No comment provided by engineer.  -- Can this be removed??? */
 "<No Text>" = "Tab1";
 
-=======
->>>>>>> Stashed changes
 /* alert description (for currency exchange rates */
 "? %@ = %@" = "? %1$@ = %2$@";
 
@@ -99,7 +92,7 @@
 "Add %d friends" = "%d Freunde hinzufügen";
 
 /* No comment provided by engineer. */
-"Add a new expense just right here" = "Hier wird eine neue Ausgabe eingegeben";
+"Add a new expense just right here" = "Hier eine neue Ausgabe eingeben";
 
 /* No comment provided by engineer. */
 "Add an event" = "Ereignis hinzufügen";
@@ -123,7 +116,7 @@
 "Archive this event" = "Ereignis archivieren";
 
 /* alert description */
-"AskForEventDeleteConfirmationDescription" = "Vorsicht, diese Operation kann nicht rückgängig gemacht werden. Soll dieses Ereignis wirklich gelöscht werden?";
+"AskForEventDeleteConfirmationDescription" = "Vorsicht, diese Operation kann nicht rückgängig gemacht werden! Soll dieses Ereignis wirklich gelöscht werden?";
 
 /* alert title */
 "AskForEventDeleteConfirmationTitle" = "Ereignis löschen";
@@ -134,16 +127,9 @@
 /* alert description */
 "Before adding an expense you actually need to add some friends" = "Bevor du eine Ausgabe eingibst, musst du erst ein paar Freunde hinzufügen";
 
-<<<<<<< Updated upstream
 /* No comment provided by engineer.   -- Can this be removed??? */
-=======
-<<<<<<< Updated upstream
-/* No comment provided by engineer. */
->>>>>>> Stashed changes
 "Button" = "Button";
 
-=======
->>>>>>> Stashed changes
 /* No comment provided by engineer. */
 "Cancel" = "Abbruch";
 
@@ -158,7 +144,7 @@
 "Cloud" = "Cloud";
 
 /* table view footer description that define briefly what can be done with the cloud feature */
-"CloudSumup" = "Verwende Dropbox um Ereignisse zu sichern und zwischen verscheidenen Geräten zu synchronisieren. Wähle einfach aus, welche Ereignisse in der Cloud gespeichert werden sollen.";
+"CloudSumup" = "Verwende Dropbox um Ereignisse zu sichern und zwischen verschiedenen Geräten zu synchronisieren. Wähle einfach aus, welche Ereignisse in der Cloud gespeichert werden sollen.";
 
 /* placeholder text, just before enabling the cloud feature */
 "CloudTeaserSentence" = "Sichere, synchronisiere und teile deine Ereignisse zwischen unterschiedlichen Geräten.\n\nAlles was du brauchst, ist ein Dropbox-Account!";
@@ -190,16 +176,9 @@
 /* No comment provided by engineer. */
 "Copy Link" = "Link kopieren";
 
-<<<<<<< Updated upstream
 /* No comment provided by engineer.   -- Can this be removed??? */
-=======
-<<<<<<< Updated upstream
-/* No comment provided by engineer. */
->>>>>>> Stashed changes
 "Cur" = "Cur";
 
-=======
->>>>>>> Stashed changes
 /* No comment provided by engineer. */
 "Currencies" = "Währungen";
 
@@ -255,16 +234,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Event name" = "Ereignisname";
 
-<<<<<<< Updated upstream
 /* No comment provided by engineer.  -- Can this be removed??? */
-=======
-<<<<<<< Updated upstream
-/* No comment provided by engineer. */
->>>>>>> Stashed changes
 "EventName" = "Ereignisname";
 
-=======
->>>>>>> Stashed changes
 /* No comment provided by engineer. */
 "Events" = "Ereignisse";
 
@@ -283,16 +255,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Expenses" = "Ausgaben";
 
-<<<<<<< Updated upstream
 /* No comment provided by engineer.  -- Can this be removed???  */
-=======
-<<<<<<< Updated upstream
-/* No comment provided by engineer. */
->>>>>>> Stashed changes
 "FEB" = "FEB";
 
-=======
->>>>>>> Stashed changes
 /* No comment provided by engineer. */
 "Feras paid" = "Feras hat gezahlt";
 
@@ -303,19 +268,11 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "First thing to do, add an event!" = "Der erste Schritt: Ein Ereignis hinzufügen!";
 
 /* bubble tip message */
-"First you need to add the friends involved in your event %@" = "Zunächst muss du die Freunde auswählen und hinzufügen die an dem Ergenis beteiligt sind.";
+"First you need to add the friends involved in your event %@" = "Zunächst muss du die Freunde auswählen und hinzufügen, die an dem Ereignis beteiligt sind.";
 
-<<<<<<< Updated upstream
 /* No comment provided by engineer.   -- Can this be removed??? */
 "FirstName" = "Vorname";
-=======
-<<<<<<< Updated upstream
-/* No comment provided by engineer. */
-"FirstName" = "FirstName";
->>>>>>> Stashed changes
 
-=======
->>>>>>> Stashed changes
 /* user can precise the reason of the expense */
 "For what ?" = "Für was?";
 
@@ -536,7 +493,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NotificationMissingEmailAddressTitle" = "E-Mail-Zusammenfassung";
 
 /* alert description */
-"NotificationPersistenceStoreCorruptedDescription" = "Es scheint, dass die App-Daten fehlerhaft sind. Bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktionieren installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
+"NotificationPersistenceStoreCorruptedDescription" = "Es scheint so, als sind die App-Daten fehlerhaft. Bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktionieren, installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
 
 /* alert title */
 "NotificationPersistenceStoreCorruptedTitle" = "Entschuldigung";
@@ -572,7 +529,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Pick friends" = "Freunde wählen";
 
 /* table view footer description */
-"Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Wähle die Anzahl der Dezimalstellen die in der App angezeigt werden soll. Dies betrifft nur die Anzeige und nicht die interne Rechengenauigkeit.";
+"Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Wähle die Anzahl der Dezimalstellen, die in der App angezeigt werden sollen. Dies betrifft nur die Anzeige und nicht die interne Rechengenauigkeit.";
 
 /* No comment provided by engineer. */
 "Precision" = "Dezimalstellen";
@@ -635,7 +592,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Search a currency" = "Eine Währung suchen";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
-"Searching for shared events" = "Geteilten Ereignissen suchen";
+"Searching for shared events" = "Geteilte Ereignisse suchen";
 
 /* No comment provided by engineer. */
 "Selection" = "Auswahl";
@@ -702,7 +659,7 @@ und nur die aktuellste Version zu behalten.";
 "Title" = "Titel";
 
 /* No comment provided by engineer. */
-"To resolve a conflict select the friend in the list below to link him/her to one of your Address Book contact. This is the best pratice, recommanded by the developer, to use all the potential of FriendCash." = "Um einen Konflikt zu beheben, wählen Sie den Freund in der Liste aus, um ihn zu einem Ihrer Addressbuch-Kontakte zu verknüpfen. Das ist die beste, empfohlene Lösung, um das Potential von FriendCash voll auszunutzen.";
+"To resolve a conflict select the friend in the list below to link him/her to one of your Address Book contact. This is the best pratice, recommanded by the developer, to use all the potential of FriendCash." = "Um einen Konflikt zu beheben, wählen Sie den Freund in der Liste aus, um ihn mit einem Ihrer Addressbuch-Kontakte zu verknüpfen. Das ist die beste, empfohlene Lösung, um das Potential von FriendCash voll auszunutzen.";
 
 /* No comment provided by engineer. */
 "Today" = "Heute";
@@ -728,7 +685,7 @@ und nur die aktuellste Version zu behalten.";
 /* notification description */
 "We did not found the exchange rates for some of the currencies \
 you are using in this event. Please enter the currency rate by \
-editing the event properties with the above \"Edit\" button." = "Die Wechselkurse für einge der Währungen in diesem Ereignis wurden nicht gefunden. \
+editing the event properties with the above \"Edit\" button." = "Die Wechselkurse für einige der Währungen in diesem Ereignis wurden nicht gefunden. \
 Bitte gib den Wechselkurs ein, indem du die Ereignis- \
 Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 
@@ -780,7 +737,7 @@ Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 /* summary email */
 "have participated to the event %@" = "haben am Ereignis %@ teilgenommen";
 
-/* No comment provided by engineer. */
+/* No comment provided by engineer. -- can this be removed??? */
 "http://" = "http://";
 
 /* report link */

@@ -481,9 +481,6 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* alert title */
 "ReachabilityTitle" = "ReachabilityTitle";
 
-/* placeholder */
-"Rechercher" = "Rechercher";
-
 /* Release to refresh status */
 "Release to refresh..." = "Release to refresh...";
 
@@ -498,6 +495,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 
 /* No comment provided by engineer. */
 "Save" = "Save";
+
+/* placeholder */
+"Search" = "Search";
 
 /* No comment provided by engineer. */
 "Search a currency" = "Search a currency";

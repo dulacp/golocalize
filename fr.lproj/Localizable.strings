@@ -482,9 +482,6 @@ amis, même ceux qui n'ont pas d'appareil iOS pourrons y accéder.";
 /* alert title */
 "ReachabilityTitle" = "Erreur de connexion";
 
-/* placeholder */
-"Rechercher" = "Rechercher";
-
 /* Release to refresh status */
 "Release to refresh..." = "Relâcher pour rafraîchir...";
 
@@ -499,6 +496,9 @@ amis, même ceux qui n'ont pas d'appareil iOS pourrons y accéder.";
 
 /* No comment provided by engineer. */
 "Save" = "Enregistrer";
+
+/* placeholder */
+"Search" = "Search";
 
 /* No comment provided by engineer. */
 "Search a currency" = "Rechercher une devise";

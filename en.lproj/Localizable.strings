@@ -206,7 +206,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Events synced with the Cloud" = "Events synced with the Cloud";
 
 /* alert title */
-"Exchange Rate" = "Taux de change";
+"Exchange Rate" = "Exchange Rate";
 
 /* No comment provided by engineer. */
 "Exchange rates" = "Exchange rates";

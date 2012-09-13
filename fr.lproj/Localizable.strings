@@ -197,7 +197,7 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 "Event" = "Evénement";
 
 /* button title */
-"Event statistics" = "Event statistics";
+"Event statistics" = "Statistiques de l'événement";
 
 /* navigation title */
 "Events" = "Evénements";
@@ -218,7 +218,7 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 "Expenses" = "Dépenses";
 
 /* No comment provided by engineer. */
-"Figures" = "Figures";
+"Figures" = "Chiffres";
 
 /* bubble tip message */
 "First thing to do, add an event!" = "Première chose à faire, ajouter un événement!";
@@ -320,7 +320,7 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 "Missing currency rates" = "Taux de changes manquants";
 
 /* alert title */
-"Missing file..." = "Missing file...";
+"Missing file..." = "Fichier manquant...";
 
 /* No comment provided by engineer. */
 "Modify event" = "Modifier un événement";
@@ -405,7 +405,7 @@ amis, même ceux qui n'ont pas d'appareil iOS pourrons y accéder.";
 "No Friend" = "Aucun ami";
 
 /* used when there is no name set for an event */
-"No name" = "No name";
+"No name" = "Pas de nom";
 
 /* rate button title (never bother the user again) */
 "No, thanks" = "Non, merci";
@@ -426,10 +426,10 @@ amis, même ceux qui n'ont pas d'appareil iOS pourrons y accéder.";
 "Ok" = "Ok";
 
 /* No comment provided by engineer. */
-"Open in Safari" = "Open in Safari";
+"Open in Safari" = "Ouvrir dans Safari";
 
 /* No comment provided by engineer. */
-"Operation Failed" = "Operation Failed";
+"Operation Failed" = "Opération a échoué";
 
 /* alert title */
 "Partial reimbursement" = "Remboursement partiel";
@@ -498,7 +498,7 @@ amis, même ceux qui n'ont pas d'appareil iOS pourrons y accéder.";
 "Save" = "Enregistrer";
 
 /* placeholder */
-"Search" = "Search";
+"Search" = "Rechercher";
 
 /* No comment provided by engineer. */
 "Search a currency" = "Rechercher une devise";
@@ -507,7 +507,7 @@ amis, même ceux qui n'ont pas d'appareil iOS pourrons y accéder.";
 "Searching for shared events" = "Recherche de partages";
 
 /* No comment provided by engineer. */
-"Selection" = "Selection";
+"Selection" = "Sélection";
 
 /* button title */
 "Send the summary by email" = "Envoyer le résumé par email";
@@ -528,7 +528,7 @@ amis, même ceux qui n'ont pas d'appareil iOS pourrons y accéder.";
 "Sorry but we can't find any data from previous version of FriendCash..." = "Désolé, mais nous n'avons pas trouvé de données provenant de version antérieur de FriendCash...";
 
 /* No comment provided by engineer. */
-"Statistics" = "Statistics";
+"Statistics" = "Statistiques";
 
 /* No comment provided by engineer. */
 "Sum up" = "Résumé";
@@ -608,7 +608,7 @@ les propriétés de l'événement grâce au bouton \"Modifier\".";
 "Yesterday" = "Hier";
 
 /* alert description */
-"You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !";
+"You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "Vous devez configurer un compte email valide pour utiliser cette fonction. Ensuite tout marchement simplement et efficacement !";
 
 /* No comment provided by engineer. */
 "You're receiving this email because you were listed as a participant of an event by one of your friend." = "Vous recevez cet email car vous avez été listé comme l'un des participant à un événement par l'un de vos amis.";
@@ -623,22 +623,22 @@ les propriétés de l'événement grâce au bouton \"Modifier\".";
 "available on the App Store" = "disponible sur l'App Store";
 
 /* cell subtitle */
-"average cost per friend" = "average cost per friend";
+"average cost per friend" = "coût moyen par ami";
 
 /* table view cell title */
 "cash balance" = "équilibre financier";
 
 /* report link */
-"email sent from FriendCash" = "email sent from FriendCash";
+"email sent from FriendCash" = "email envoyé depuis FriendCash";
 
 /* cell subtitle */
-"first expense" = "first expense";
+"first expense" = "première dépense";
 
 /* No comment provided by engineer. */
 "from a previous version of FriendCash" = "d'une version précédante de FriendCash";
 
 /* cell subtitle */
-"global cost" = "global cost";
+"global cost" = "coût global";
 
 /* summary email */
 "have participated to the event %@" = "ont participé à l'événement %@";
@@ -650,7 +650,7 @@ les propriétés de l'événement grâce au bouton \"Modifier\".";
 "involved in %d expenses" = "impliqué dans %d dépenses";
 
 /* cell subtitle */
-"last expense" = "last expense";
+"last expense" = "dernière dépense";
 
 /* loading text */
 "loading your data..." = "chargement...";

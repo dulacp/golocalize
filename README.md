@@ -21,6 +21,16 @@ I'll add a tool to compute the progress of each translation.
 
 Make pull requests and I'll integrate it with pleasure.
 
+#### to find lines not translated
+
+Really easy with just one command
+
+```sh
+$ find_similarities.sh de
+```
+
+> This command will compare the German file with the English one and output all common lines.
+
 #### convert UTF-16 to UTF-8
 
 To convert a single file use 

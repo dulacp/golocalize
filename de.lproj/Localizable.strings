@@ -196,7 +196,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Event" = "Ereignis";
 
 /* button title */
-"Event statistics" = "Event statistics";
+"Event statistics" = "Ereignis Statistiken";
 
 /* navigation title */
 "Events" = "Ereignisse";

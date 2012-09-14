@@ -156,7 +156,7 @@
 "Data import" = "Daten-Import";
 
 /* No comment provided by engineer. */
-"Dates" = "Daten";  /* Maybe not a good translation. What is the context ? */
+"Dates" = "Daten";
 
 /* No comment provided by engineer. */
 "Decimal precision" = "Dezimalstellen";
@@ -496,7 +496,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Save" = "Sichern";
 
 /* placeholder */
-"Search" = "Suche"; /* "The search" --> "Suche"   "to search" --> "Suchen"
+"Search" = "Suchen";
 
 /* No comment provided by engineer. */
 "Search a currency" = "Eine Währung suchen";
@@ -621,7 +621,7 @@ Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 "available on the App Store" = "verfügbar im App Store";
 
 /* cell subtitle */
-"average cost per friend" = "durchschnittle Kosten pro Teilnehmer";  /* Should start with a captial D if this is a complete sentence.  --> Context? */
+"average cost per friend" = "durchschnittle Kosten pro Teilnehmer";
 
 /* table view cell title */
 "cash balance" = "Barbestand";
@@ -636,7 +636,7 @@ Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 "from a previous version of FriendCash" = "aus einer früheren FriendCash-Version";
 
 /* cell subtitle */
-"global cost" = "Gesamtkosten";  /* maybe "globale Kosten" would be better. Context?
+"global cost" = "gesamtkosten";  /* maybe "globale Kosten" would be better. Context? */
 
 /* summary email */
 "have participated to the event %@" = "haben am Ereignis %@ teilgenommen";

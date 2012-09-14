@@ -68,7 +68,7 @@
 "Add %d friends" = "%d Freunde hinzufügen";
 
 /* No comment provided by engineer. */
-"Add a new expense just right here" = "Hier eine neue Ausgabe eingeben";
+"Add a new expense just right here" = "Hier werden neue Ausgabe eingeben.";
 
 /* button title */
 "Add an event" = "Ereignis hinzufügen";
@@ -156,7 +156,7 @@
 "Data import" = "Daten-Import";
 
 /* No comment provided by engineer. */
-"Dates" = "Dates";
+"Dates" = "Daten";  /* Maybe not a good translation. What is the context ? */
 
 /* No comment provided by engineer. */
 "Decimal precision" = "Dezimalstellen";
@@ -217,7 +217,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Expenses" = "Ausgaben";
 
 /* No comment provided by engineer. */
-"Figures" = "Figures";
+"Figures" = "Zahlen";   /* Most likely not a good translation. Context? */
 
 /* bubble tip message */
 "First thing to do, add an event!" = "Der erste Schritt: Ein Ereignis hinzufügen!";
@@ -415,7 +415,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NotificationMissingEmailAddressTitle" = "E-Mail-Zusammenfassung";
 
 /* alert description */
-"NotificationPersistenceStoreCorruptedDescription" = "Es scheint so, als sind die App-Daten fehlerhaft. Bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktionieren, installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
+"NotificationPersistenceStoreCorruptedDescription" = "Scheinbar sind die App-Daten fehlerhaft. Bitte beende die App mit dem Home-Button und starte das Gerät neu. Sollte dies nicht funktionieren, installiere die App neu und stellen deine Daten aus Dropbox wieder her.";
 
 /* alert title */
 "NotificationPersistenceStoreCorruptedTitle" = "Entschuldigung";
@@ -469,16 +469,16 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Rate the app" = "App bewerten";
 
 /* alert description */
-"ReachabilityDescription" = "ReachabilityDescription";
+"ReachabilityDescription" = "ReachabilityDescription";  /* Needs translations? Context */
 
 /* alert description */
-"ReachabilityServiceDescription" = "ReachabilityServiceDescription";
+"ReachabilityServiceDescription" = "ReachabilityServiceDescription";   /* Needs translations? Context */
 
 /* alert title */
-"ReachabilityServiceTitle" = "ReachabilityServiceTitle";
+"ReachabilityServiceTitle" = "ReachabilityServiceTitle";   /* Needs translations? Context */
 
 /* alert title */
-"ReachabilityTitle" = "ReachabilityTitle";
+"ReachabilityTitle" = "ReachabilityTitle";   /* Needs translations? Context */
 
 /* Release to refresh status */
 "Release to refresh..." = "Loslassen zum Neuladen...";
@@ -496,7 +496,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Save" = "Sichern";
 
 /* placeholder */
-"Search" = "Search";
+"Search" = "Suche"; /* "The search" --> "Suche"   "to search" --> "Suchen"
 
 /* No comment provided by engineer. */
 "Search a currency" = "Eine Währung suchen";
@@ -508,7 +508,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Selection" = "Auswahl";
 
 /* button title */
-"Send the summary by email" = "Send the summary by email";
+"Send the summary by email" = "Die Zusammenfassung per E-Mail versenden";
 
 /* alert description */
 "Set how much %@ paid back %@" = "Wie viel hat %1$@ an %2$@ zurückgezahlt?";
@@ -526,7 +526,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Sorry but we can't find any data from previous version of FriendCash..." = "Entschuldigung, aber es wurden keine Daten einer vorherigen Version von FriedCash gefunden...";
 
 /* No comment provided by engineer. */
-"Statistics" = "Statistics";
+"Statistics" = "Statistiken";
 
 /* No comment provided by engineer. */
 "Sum up" = "Zusammenfassung";
@@ -621,7 +621,7 @@ Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 "available on the App Store" = "verfügbar im App Store";
 
 /* cell subtitle */
-"average cost per friend" = "average cost per friend";
+"average cost per friend" = "durchschnittle Kosten pro Teilnehmer";  /* Should start with a captial D if this is a complete sentence.  --> Context? */
 
 /* table view cell title */
 "cash balance" = "Barbestand";
@@ -630,13 +630,13 @@ Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 "email sent from FriendCash" = "E-Mail aus FriendCash gesendet";
 
 /* cell subtitle */
-"first expense" = "first expense";
+"first expense" = "erste Ausgabe";
 
 /* No comment provided by engineer. */
 "from a previous version of FriendCash" = "aus einer früheren FriendCash-Version";
 
 /* cell subtitle */
-"global cost" = "global cost";
+"global cost" = "Gesamtkosten";  /* maybe "globale Kosten" would be better. Context?
 
 /* summary email */
 "have participated to the event %@" = "haben am Ereignis %@ teilgenommen";
@@ -648,7 +648,7 @@ Eigenschaften über den \"Bearbeiten\"-Knopf aufrufst.";
 "involved in %d expenses" = "involviert in %d Ausgaben";
 
 /* cell subtitle */
-"last expense" = "last expense";
+"last expense" = "letzte Ausgabe";
 
 /* loading text */
 "loading your data..." = "Daten laden...";

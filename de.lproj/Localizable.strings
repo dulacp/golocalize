@@ -1,5 +1,5 @@
 /* use in the html expense summary for 'Pierre (2)' */
-"%@ (%d), " = "%1$@ (%2$d), ";
+"%@ (%@), " = "%1$@ (%2$@), ";
 
 /* Generated Report Link email subject */
 "%@ - Full Report" = "%@ - Vollständiger Bericht";

@@ -1,0 +1,695 @@
+/* use in the html expense summary for 'Pierre (2)' */
+"%@ (%d), " = "%1$@ (%2$d), ";
+
+/* Generated Report Link email subject */
+"%@ - Full Report" = "%@ - Подробный отчёт";
+
+/* Summary email subject */
+"%@ - Summary Email" = "%@ - Краткий отчёт";
+
+/* alert message (for the currency exchange rate) */
+"%@ = ? %@" = "%1$@ = ? %2$@";
+
+/* email report main title */
+"%@ Report" = "%@ Отчёт";
+
+/* use in the html summary */
+"%@ gave back %@ to %@" = "%1$@ ➞ %2$@: %3$@"; /*? In Russian, "Andrey gave back 20$ to Pierre" looks ugly, because the verb should have masculine or fenimine ending depending on who paid, and "Pierre" should also have appropiate ending, which depends on the name used. So I suggest just a simple form "Andrey ➞ Pierre: 20$". Then no problems with endings and it looks nice. The question is to choose the right arrow character, so that it looks nice. I use the same arrow in many other places. */
+
+/* summary email */
+"%@ owes %@ to %@" = "%1$@ ➞ %3$@: %2$@";
+
+/* table view cell subtitle */
+"%@ paid" = "%@ заплатил(а)";
+
+/* use in the html summary */
+"%@ paid %@ for %@" = "<b>%1$@ заплатил(а) %2$@</b> за %3$@";
+
+/* table view cell subtitle */
+"%@ paid back" = "%@ вернул(а)";
+
+/* action sheet title */
+"%@ paid back %@ ?" = "%1$@ вернул(а) %2$@ ?";
+
+/* summary email main title */
+"%@ summary" = "%@, краткий отчёт";
+
+/* table view cell title */
+"%d archived events" = "Размер архива: %d";
+
+/* No comment provided by engineer. */
+"%d events" = "%d событий";
+
+/* No comment provided by engineer. */
+"%d friends" = "%d друзей";
+
+/* counter of remaining steps (eg '1 over 3') */
+"%d over %d" = "%d из %d";
+
+/* alert description */
+"%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "Найдено %d опубликованных событий. Хотите переместить их в папку приложения ?";
+
+/* alert description (for currency exchange rates */
+"? %@ = %@" = "? %1$@ = %2$@";
+
+/* navigation title */
+"About" = "О программе";
+
+/* No comment provided by engineer. */
+"AccountNeededDescription" = "Для того чтобы воспользоваться этой функцией нужен аккаунт FriendCash";
+
+/* No comment provided by engineer. */
+"AccountNeededTitle" = "Аккаунт";
+
+/* button title */
+"Add %d friend" = "Добавить %d друга";
+
+/* button title */
+"Add %d friends" = "Добавить %d друзей";
+
+/* No comment provided by engineer. */
+"Add a new expense just right here" = "Создайте новую запись";
+
+/* button title */
+"Add an event" = "Добавить событие";
+
+/* button title */
+"Add an event to the Cloud" = "Сохранить событие в Облаке";
+
+/* button title */
+"Add friends from Contacts" = "Добавить друзей из Контактов";
+
+/* No comment provided by engineer. */
+"All events" = "Все события";
+
+/* bubble tip message */
+"All the expenses linked to the event %@ will be here" = "Здесь будут все траты связанные с собитием %@ ";
+
+/* No comment provided by engineer. */
+"Archive this event" = "Архивировать событие";
+
+/* alert description */
+"AskForEventDeleteConfirmationDescription" = "Осторожно, восстановить событие будет невозможно. Продолжить удаление ?";
+
+/* alert title */
+"AskForEventDeleteConfirmationTitle" = "Удалить событие";
+
+/* No comment provided by engineer. */
+"Auto backup" = "Автоматическое резеврное копирование";
+
+/* alert description */
+"Before adding an expense you actually need to add some friends" = "Прежде чем тратить деньги, необходимо добавить в собитие друзей";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отмена";
+
+/* button title */
+"Change the Contact associated" = "Изменить привязанный Контакт";
+
+/* sample email message to share
+   sample text message */
+"Check out the new version of the iPhone app named FriendCash. Spread the word!" = "Попробуй новую версию FriendCash для iPhone. Установи сам и расскажи друзьям!";
+
+/* navigation title */
+"Cloud" = "Облако";
+
+/* table view footer description that define briefly what can be done with the cloud feature */
+"CloudSumup" = "Резервное копирование и синхронизация с другими устройствами с помощью Dropbox. Выберите события, которые FriendCash должен отправить в Облако.";
+
+/* placeholder text, just before enabling the cloud feature */
+"CloudTeaserSentence" = "Резервное копирование и синхронизация с другими устройствами. \n\nВсё что для этого нужно - аккаунт Dropbox!";
+
+/* No comment provided by engineer. */
+"Comment" = "Описание";
+
+/* No comment provided by engineer. */
+"Configure" = "Configure";
+
+/* No comment provided by engineer. */
+"Confirm" = "Confirm";
+
+/* alert title */
+"Conflict files on Dropbox" = "Конфликт файлов в Dropbox";
+
+/* button title */
+"Connect to Dropbox" = "Подключиться к Dropbox";
+
+/* table view cell title */
+"Connected to Dropbox" = "Подключено к Dropbox";
+
+/* No comment provided by engineer. */
+"Continue" = "Продолжить";
+
+/* No comment provided by engineer. */
+"Copy Link" = "Скопировать ссылку";
+
+/* navigation title */
+"Currencies" = "Валюты";
+
+/* No comment provided by engineer. */
+"Currency" = "Валюта";
+
+/* alert title */
+"Data from v1" = "Данные из v1";
+
+/* alert title */
+"Data import" = "Импорт данных";
+
+/* No comment provided by engineer. */
+"Dates" = "Даты";
+
+/* No comment provided by engineer. */
+"Decimal precision" = "Кол-во знаков после запятой";
+
+/* alert title */
+"Delete" = "Удалить";
+
+/* button title */
+"Delete on the Cloud" = "Удалить из Облака";
+
+/* loading label (note: needs to be short to avoid truncating words) */
+"Deleting event" = "Удаление";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Закрыть";
+
+/* alert description */
+"Do you really want to delete the event \
+from the Cloud ? This operation will leave intact the local copy on your device." = "Вы действительно хотите удалить событие \
+из Облака? Все данные остануться только на вашем устройстве.";
+
+/* alert description */
+"Do you really want to import the data found from a previous version ?" = "Импортировать найденные данные из прошлой версии ?";
+
+/* action sheet title */
+"Do you want to remove it from the Cloud too ?" = "Удалить также из Облака ?";
+
+/* loading label title (note: needs to be short to avoid truncating words */
+"Downloading..." = "Скачиваю...";
+
+/* alert title */
+"Dropbox disconnected" = "Dropbox не подключен";
+
+/* No comment provided by engineer. */
+"Enable sound" = "Включить звук";
+
+/* No comment provided by engineer. */
+"Event" = "Событие";
+
+/* button title */
+"Event statistics" = "Статистика";
+
+/* navigation title */
+"Events" = "События";
+
+/* table view header title (note: needs to be not too long to stay on one line on the iPhone) */
+"Events synced with the Cloud" = "События в Облаке";
+
+/* alert title */
+"Exchange Rate" = "Обменный Курс";
+
+/* No comment provided by engineer. */
+"Exchange rates" = "Курсы валют";
+
+/* No comment provided by engineer. */
+"Expense" = "Запись";
+
+/* No comment provided by engineer. */
+"Expenses" = "Журнал";
+
+/* No comment provided by engineer. */
+"Figures" = "Figures"; /*? What is the context?*/
+
+/* bubble tip message */
+"First thing to do, add an event!" = "Для начала, создайте новое событие!";
+
+/* bubble tip message */
+"First you need to add the friends involved in your event %@" = "Сначала нужно добавить участников события %@";
+
+/* user can precise the reason of the expense */
+"For what ?" = "За что ?";
+
+/* No comment provided by engineer. */
+"Friend" = "Друг";
+
+/* summary email */
+"FriendCash for iPhone and iPod touch" = "FriendCash для iPhone и iPad";
+
+/* No comment provided by engineer. */
+"FriendDemoModuleIntermediateAmountTableView" = "Список текущих долгов для подсчёта баланса";
+
+/* bubble tip message */
+"FriendDemoModulePersonalCost" = "Событие обошлось в %1$@ для %2$@";
+
+/* navigation title */
+"Friends" = "Друзья";
+
+/* button title */
+"Generate full report" = "Создать полный отчёт";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Generating Report" = "Создание отчёта";
+
+/* button title */
+"Get an event from the Cloud" = "Добавить событие из Облака";
+
+/* No comment provided by engineer. */
+"Give feedback" = "Написать отзыв";
+
+/* table view footer description */
+"Give the app a five star review on the App Store to help us adding more free features" = "Вам нравится FriendCash ? Напишите хороший отзыв в AppStore и это позволит нам продолжить работу над приложением, оставляя его бесплатным";
+
+/* No comment provided by engineer. */
+"Help" = "Помощь";
+
+/* bubble tip message */
+"Here %@ is balanced with the group" = "Здесь %@ и группа ничего друг другу не должны";/*? Where it is shown? */
+
+/* bubble tip message */
+"Here %@ owes %@ to the group" = "Здесь %1$@ в долгу на %2$@ перед группой";
+
+/* bubble tip message */
+"Here the group owes %@ to %@" = "Здесь %2$@ в плюсе, а группа должна %1$@";
+
+/* bubble tip message */
+"Here you will be able to know what people owes each other to balance the group" = "Здесь вы сможете узнать, сколько люди внутри группы должны друг другу";
+
+/* user specify the amount of the expense */
+"How much ?" = "Сколько ?";
+
+/* summary email */
+"How to balance ?" = "Кто кому должен ?";
+
+/* No comment provided by engineer. */
+"ITunesURL" = "http://www.friendcashapp.com/en/appstore";
+
+/* rate alert description */
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Если Вам понравился %@, пожалуйста, поставьте оценку в AppStore. Это займёт не больше минуты. Спасибо за поддержку!";
+
+/* No comment provided by engineer. */
+"Import your data" = "Импорт данных";
+
+/* No comment provided by engineer. */
+"Import your iCloud data" = "Импорт данных из iCloud";
+
+/* user can specify in which event the expense will be added (note that it has to be short) */
+"In event ?" = "Событие ?";
+
+/* email subject */
+"Invitation to use the iPhone app FriendCash" = "Приглашение установить FriendCash для iPhone";
+
+/* destructive button title */
+"Keep on the Cloud" = "Оставить в Облаке";
+
+/* button title */
+"Link to one of your Contact" = "Привязать к записи в Контактах";
+
+/* bubble tip message */
+"List of expenses in which %@ is implied." = "Список записей, в которых встречается %@.";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Loading from Dropbox" = "Загрузка из Dropbox";
+
+/* Loading Status */
+"Loading..." = "Загрузка...";
+
+/* No comment provided by engineer. */
+"Mail Link to this Page" = "Отправить письмо с ссылкой на эту страницу";
+
+/* notification title */
+"Missing currency rates" = "Отсутствуют курсы валют";
+
+/* alert title */
+"Missing file..." = "Отсутствует  файл...";
+
+/* No comment provided by engineer. */
+"Modify event" = "Изменить событие";
+
+/* No comment provided by engineer. */
+"Move" = "Переместить";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Moving files" = "Перенос файлов";
+
+/* alert title */
+"Need friends..." = "Нужны участники...";
+
+/* alert title */
+"Need you for that" = "Need you for that";
+
+/* No comment provided by engineer. */
+"New Event" = "Новое Событие";
+
+/* No comment provided by engineer. */
+"New Expense" = "Новая Запись";
+
+/* No comment provided by engineer. */
+"New event" = "Новое событие";
+
+/* No comment provided by engineer. */
+"New features tour" = "Обзор новых функций";
+
+/* New Features 1 - Image iPad - v2.2 */
+"NewFeature1_Image_iPad" = "NewFeature1_v2.2@2x.png";
+
+/* New Features 1 - Image iPhone - v2.2 */
+"NewFeature1_Image_iPhone" = "NewFeature1_v2.2.png";
+
+/* New Features 1 - Subtext - v2.2 */
+"NewFeature1_Subtext" = "Загрузите событие в Dropbox и вы сможете открыть к нему доступ для друзей так же, как к любым другим папкам в Dropbox.";
+
+/* New Features 1 - Text - v2.2 */
+"NewFeature1_Text" = "Теперь можно поделиться событиями с любым человеком";
+
+/* New Features 1 - Title - v2.2 */
+"NewFeature1_Title" = "БОЛЬШОЙ шаг для FriendCash ! \nИспользуйте Dropbox для обмена данными";
+
+/* New Features 1 - Image iPad - v2.2 */
+"NewFeature2_Image_iPad" = "NewFeature2_v2.2@2x.png";
+
+/* New Features 1 - Image iPhone - v2.2 */
+"NewFeature2_Image_iPhone" = "NewFeature2_v2.2.png";
+
+/* New Features 2 - Subtext - v2.2 */
+"NewFeature2_Subtext" = "Это сгенерирует уникальную ссылку, которую можно послать по почте друзьям. Тогда любой из участников сможет посмотреть на расходы, даже в отсутсвие iOS устройства."; 
+
+/* New Features 2 - Text - v2.2 */
+"NewFeature2_Text" = "Нажмите на \"Сгенерировать Полный Отчёт\"";
+
+/* New Features 2 - Title - v2.2 */
+"NewFeature2_Title" = "Новый способ делиться данными !";
+
+/* New Features 1 - Image iPad - v2.2 */
+"NewFeature3_Image_iPad" = "NewFeature3_v2.2@2x.png";
+
+/* New Features 1 - Image iPhone - v2.2 */
+"NewFeature3_Image_iPhone" = "NewFeature3_v2.2.png";
+
+/* New Features 3 - Subtext - v2.2 */
+"NewFeature3_Subtext" = "Вы знаете какой функции не хватает программе, вы нашли баг, недовольны переводом.. или просто хотите передать привет? Я читаю все отзывы (особенно, по-английски :).";
+
+/* New Features 3 - Text - v2.2 */
+"NewFeature3_Text" = "Единственный способ поделиться мыслями";
+
+/* New Features 3 - Title - v2.2 */
+"NewFeature3_Title" = "Написать отзыв :)";
+
+/* button title */
+"Next" = "Далее";
+
+/* No comment provided by engineer. */
+"No" = "Нет";
+
+/* placeholder in tableview */
+"No Friend" = "Нет Друзей";
+
+/* used when there is no name set for an event */
+"No name" = "Без имени";
+
+/* rate button title (never bother the user again) */
+"No, thanks" = "Нет, спасибо";
+
+/* alert description */
+"NotificationMissingEmailAddressDescription" = "У некоторых участников события нет почтового адреса - не все получат письмо";
+
+/* alert title */
+"NotificationMissingEmailAddressTitle" = "Отчёт";
+
+/* alert description */
+"NotificationPersistenceStoreCorruptedDescription" = "Данные приложения повреждены. Пожалуйста, закройте приложение нажав кнопку Home и перезагрузите устройство. Если это не помогло, удалите приложение и установите его заново. Затем вы сможете восстановить те данные, которые сохранены в Dropbox.";
+
+/* alert title */
+"NotificationPersistenceStoreCorruptedTitle" = "Извините";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Открыть в Safari";
+
+/* No comment provided by engineer. */
+"Operation Failed" = "Операция не удалась";
+
+/* alert title */
+"Partial reimbursement" = "Частичный возврат";
+
+/* No comment provided by engineer. */
+"Partially" = "Частично";
+
+/* No comment provided by engineer. */
+"Pay back" = "Долги";
+
+/* No comment provided by engineer. */
+"Pick a friend" = "Выберите друга";
+
+/* navigation title */
+"Pick friends" = "Выбор друзей";
+
+/* table view footer description */
+"Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Выберите количество знаков после запятой, которое будет показываться во всех суммах. Этот выбор не влияет на точность расчётов.";
+
+/* navigation title */
+"Precision" = "Копейки";
+
+/* navigation title */
+"Prefs" = "Настройки";
+
+/* button title */
+"Previous" = "Назад";
+
+/* Pull down to refresh status */
+"Pull down to refresh..." = "Потяните вниз чтобы обновить...";
+
+/* rate alert title */
+"Rate %@" = "Рейтинг %@";
+
+/* rate button (take the user to the app store page) */
+"Rate now" = "Написать сейчас";
+
+/* No comment provided by engineer. */
+"Rate the app" = "Rate the app"; /*?Is it a title, or button?*/
+
+/* alert description */
+"ReachabilityDescription" = "ReachabilityDescription"; /*??? What is it and why no spaces?*/
+
+/* alert description */
+"ReachabilityServiceDescription" = "ReachabilityServiceDescription"; /*???*/
+
+/* alert title */
+"ReachabilityServiceTitle" = "ReachabilityServiceTitle";
+
+/* alert title */
+"ReachabilityTitle" = "ReachabilityTitle";
+
+/* Release to refresh status */
+"Release to refresh..." = "Отпустите чтобы обновить...";
+
+/* rate button title (reminds the user sometimes later) */
+"Remind me later" = "Напомнить позже";
+
+/* No comment provided by engineer. */
+"Request a feature" = "Предложить новую функцию";
+
+/* alert description */
+"Sadely, your account is not linked anymore. Enable it again please :)" = "К сожалению ваш аккаунт больше не работает. Пожалуйста, настройте его ещё раз :)";
+
+/* No comment provided by engineer. */
+"Save" = "Сохранить";
+
+/* placeholder */
+"Search" = "Поиск";
+
+/* No comment provided by engineer. */
+"Search a currency" = "Поиск валюты";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Searching for shared events" = "Поиск событий";
+
+/* No comment provided by engineer. */
+"Selection" = "Выбор"; /*? Where does this string appear? What's the context? */
+
+/* button title */
+"Send the summary by email" = "Отправить отчёт по почте";
+
+/* alert description */
+"Set how much %@ paid back %@" = "Напишите, размер передачи %1$@ ➞ %2$@";
+
+/* alert title */
+"Shared events" = "Общие события";
+
+/* No comment provided by engineer. */
+"Show all contacts" = "Показать все контакты";
+
+/* No comment provided by engineer. */
+"Show only favorites" = "Показать только избранное";
+
+/* alert description */
+"Sorry but we can't find any data from previous version of FriendCash..." = "К сожалению, не удалось найти никаких данных из предыдущей версии FriendCash...";
+
+/* No comment provided by engineer. */
+"Statistics" = "Статистика";
+
+/* No comment provided by engineer. */
+"Sum up" = "Sum up"; /*? Where it is used?*/
+
+/* No comment provided by engineer. */
+"Tell by SMS" = "Послать SMS";
+
+/* No comment provided by engineer. */
+"Tell by email" = "Послать письмо";
+
+/* No comment provided by engineer. */
+"Tell your friends" = "Рассказать друзьям";
+
+/* action sheet title */
+"Tell your friends about FriendCash" = "Расскажите друзьям про FriendCash";
+
+/* summary email */
+"The expenses list" = "Список расходов";
+
+/* bubble tip message (fixed part) */
+"The friend financial balance inside the group" = "Баланс друзей внутри группы";
+
+/* No comment provided by engineer. */
+"The operation did not complete successfully: %@" = "Не удалось выполнить операцию: %@";
+
+/* report link email */
+"The report is available online at the url" = "Отчёт доступен онлайн по адресу";
+
+/* bubble tip message */
+"Then you'll be able to add an expense from everywhere thanks to this button" = "Затем вы сможете добавлять новые записи с помощью вот этой кнопки";
+
+/* alert description */
+"There is more than one file for the hash '%@'. \
+The sync is suspended until the conflict is resolved Please use the search field on your Dropbox web page to find \
+the duplicates and only keep the most recent version." = "Найдено несколько файлов с одинаковым хеш-кодом '%@'. \
+Синхронизация приостановлена, пока конфликт не будет устранён. Пожалуйста, найдите дупликаты \
+файла в своём аккаунте Dropbox с помощью функции поиска и удалите все файлы кроме самого нового.";
+
+/* alert description */
+"There is no file compatible with this version of FriendCash in the directory '%@'" = "Папка '%@' не содержит файлов совместимысх с данной версией FriendCash";
+
+/* No comment provided by engineer. */
+"Title" = "Название";
+
+/* No comment provided by engineer. */
+"Today" = "Сегодня";
+
+/* No comment provided by engineer. */
+"Total" = "Всего";
+
+/* No comment provided by engineer. */
+"Update" = "Обновить"; /*? Noun or verb?*/
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Uploading..." = "Отправка данных...";
+
+/* alert description */
+"We detect some data from FriendCash v1 do you want to import these data" = "Мы обнаружили данные из первой версии FriendCash. Вы хотите импортировать эти данные ?";
+
+/* notification description */
+"We did not found the exchange rates for some of the currencies \
+you are using in this event. Please enter the currency rate by \
+editing the event properties with the above \"Edit\" button." = "Не удалось найти курсы обмена для некоторых валют, \
+которые используются в этом событии. Пожалуйста, добавьте недостающие \
+курсы валют в настройках события (кнопка справа сверху).";
+
+/* user can modify the date of the expense */
+"When ?" = "Когда ?";
+
+/* user can choose who paid the expense */
+"Who paid ?" = "Кто платил ?";
+
+/* No comment provided by engineer. */
+"Yes" = "Да";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Вчера";
+
+/* alert description */
+"You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "Вам необходимо настроить аккаунт электронной почты на этом устройстве. Тогда вы сможете воспользоваться этой функцией.";
+
+/* No comment provided by engineer. */
+"You're receiving this email because you were listed as a participant of an event by one of your friend." = "Вы получили это письмо, потому кто-то из ваших друзей добавил вас в список участников события в FriendCash.";
+
+/* No comment provided by engineer. */
+"already added" = "уже в списке";
+
+/* table view cell detail text */
+"already synced" = "уже синхронизировано"; /*? Context? What is sinced? event?*/
+
+/* summary email */
+"available on the App Store" = "доступно в App Store";
+
+/* cell subtitle */
+"average cost per friend" = "средняя стоимость на человека";
+
+/* table view cell title */
+"cash balance" = "баланс"; /*? Where this table view is in the App?*/
+
+/* report link */
+"email sent from FriendCash" = "письмо отправлено из FriendCash";
+
+/* cell subtitle */
+"first expense" = "первая запись";
+
+/* No comment provided by engineer. */
+"from a previous version of FriendCash" = "из предыдущей версии FriendCash";
+
+/* cell subtitle */
+"global cost" = "общая цена"; /*?Context? Global cost of what? */
+
+/* summary email */
+"have participated to the event %@" = "участвует в событии %@";
+
+/* report link */
+"http://www.friendcashapp.com/en/report/%@" = "http://www.friendcashapp.com/en/report/%@";
+
+/* table view footer description */
+"involved in %d expenses" = "участвует в %d записях";
+
+/* cell subtitle */
+"last expense" = "последняя запись";
+
+/* loading text */
+"loading your data..." = "загрузка данных...";
+
+/* No comment provided by engineer. */
+"locked" = "заблокировано"; /*? Context?*/
+
+/* subtitle on the friend profile view */
+"no email address specified" = "не указано адреса эл.почты";
+
+/* No comment provided by engineer. */
+"owes" = ": долг"; /*? Need to check how this will look on the screen. Does it appear only in the report?*/
+
+/* No comment provided by engineer. */
+"paid" = ""; /*? Is this string used only in Expenses list? */
+
+/* table view cell title */
+"paid by %@" = "заплатил(а) %@";
+
+/* table view cell title */
+"personal cost" = "личные расходы";
+
+/* No comment provided by engineer. */
+"pick a friend" = "выберите друга";
+
+/* table view cell subtitle */
+"pick an event" = "выберите событие";
+
+/* table view footer description */
+"the amounts are computing for the event \"%@\"" = "Все суммы посчитаны для события \"%@\"";
+
+/* No comment provided by engineer. */
+"to" = ""; /*? Context? Someone paid _to_ someone else?*/
+
+/* No comment provided by engineer. */
+"unlock" = "разблокировать"; /*? Context?*/
+
+/* No comment provided by engineer. */
+"website" = "сайт";
+
+/* placeholder text for the note associated to an expense */
+"write a short note" = "напишите короткое описание";
+

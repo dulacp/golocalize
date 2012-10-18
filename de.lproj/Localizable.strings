@@ -508,7 +508,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Selection" = "Auswahl";
 
 /* button title */
-"Send the summary by email" = "Die Zusammenfassung per E-Mail versenden";
+"Send the summary by email" = "Zusammenfassung per E-Mail versenden";
 
 /* alert description */
 "Set how much %@ paid back %@" = "Wie viel hat %1$@ an %2$@ zurückgezahlt?";

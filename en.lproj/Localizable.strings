@@ -106,6 +106,12 @@
 /* button title */
 "Change the Contact associated" = "Change the Contact associated";
 
+/* button title */
+"Change the email address used" = "Change the email address used";
+
+/* No comment provided by engineer. */
+"Change the picture" = "Change the picture";
+
 /* sample email message to share
    sample text message */
 "Check out the new version of the iPhone app named FriendCash. Spread the word!" = "Check out the new version of the iPhone app named FriendCash. Spread the word!";
@@ -155,7 +161,7 @@
 /* alert title */
 "Data import" = "Data import";
 
-/* No comment provided by engineer. */
+/* table view section title */
 "Dates" = "Dates";
 
 /* No comment provided by engineer. */
@@ -166,6 +172,9 @@
 
 /* button title */
 "Delete on the Cloud" = "Delete on the Cloud";
+
+/* No comment provided by engineer. */
+"Delete the picture" = "Delete the picture";
 
 /* loading label (note: needs to be short to avoid truncating words) */
 "Deleting event" = "Deleting event";
@@ -193,20 +202,24 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Enable sound" = "Enable sound";
 
+/* alert view title */
+"Error" = "Error";
+
 /* No comment provided by engineer. */
 "Event" = "Event";
 
 /* button title */
 "Event statistics" = "Event statistics";
 
-/* navigation title */
+/* navigation title
+   table view section title */
 "Events" = "Events";
 
 /* table view header title (note: needs to be not too long to stay on one line on the iPhone) */
 "Events synced with the Cloud" = "Events synced with the Cloud";
 
 /* alert title */
-"Exchange Rate" = "Exchange Rate";
+"Exchange Rate" = "Taux de change";
 
 /* No comment provided by engineer. */
 "Exchange rates" = "Exchange rates";
@@ -214,10 +227,10 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Expense" = "Expense";
 
-/* No comment provided by engineer. */
+/* table view section title */
 "Expenses" = "Expenses";
 
-/* No comment provided by engineer. */
+/* table view section title */
 "Figures" = "Figures";
 
 /* bubble tip message */
@@ -253,13 +266,13 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* button title */
 "Get an event from the Cloud" = "Get an event from the Cloud";
 
-/* No comment provided by engineer. */
+/* cell text */
 "Give feedback" = "Give feedback";
 
 /* table view footer description */
 "Give the app a five star review on the App Store to help us adding more free features" = "You like the app ? Give the app a five star review on the App Store to help us adding more free features";
 
-/* No comment provided by engineer. */
+/* cell text */
 "Help" = "Help";
 
 /* bubble tip message */
@@ -326,6 +339,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Modify event" = "Modify event";
 
 /* No comment provided by engineer. */
+"Modify the picture" = "Modify the picture";
+
+/* No comment provided by engineer. */
 "Move" = "Move";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
@@ -346,8 +362,23 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "New event" = "New event";
 
-/* No comment provided by engineer. */
+/* cell text */
 "New features tour" = "New features tour";
+
+/* New Features 0 - Image iPad - v2.3 */
+"NewFeature0_Image_iPad" = "NewFeature0_v2.3@2x.png";
+
+/* New Features 0 - Image iPhone - v2.3 */
+"NewFeature0_Image_iPhone" = "NewFeature0_v2.3.png";
+
+/* New Features 0 - Subtext - v2.3 */
+"NewFeature0_Subtext" = "but when you tap on the “plus” button at the upper right corner, you’ll now be able to choose weither to create the friend in the address book or not.";
+
+/* New Features 0 - Text - v2.3 */
+"NewFeature0_Text" = "Just go the way you used to add friends";
+
+/* New Features 0 - Title - v2.3 */
+"NewFeature0_Title" = "Now add Friends without the \nAddress Book";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature1_Image_iPad" = "NewFeature1_v2.2@2x.png";
@@ -466,7 +497,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* rate button (take the user to the app store page) */
 "Rate now" = "Rate now";
 
-/* No comment provided by engineer. */
+/* cell text */
 "Rate the app" = "Rate the app";
 
 /* alert description */
@@ -487,7 +518,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* rate button title (reminds the user sometimes later) */
 "Remind me later" = "Remind me later";
 
-/* No comment provided by engineer. */
+/* cell text */
 "Request a feature" = "Request a feature";
 
 /* alert description */
@@ -504,9 +535,6 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 
 /* loading label title (note: needs to be short to avoid truncating words) */
 "Searching for shared events" = "Searching for shared events";
-
-/* No comment provided by engineer. */
-"Selection" = "Selection";
 
 /* button title */
 "Send the summary by email" = "Send the summary by email";
@@ -529,7 +557,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Statistics" = "Statistics";
 
-/* No comment provided by engineer. */
+/* table view section title */
 "Sum up" = "Sum up";
 
 /* No comment provided by engineer. */
@@ -538,7 +566,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 /* No comment provided by engineer. */
 "Tell by email" = "Tell by email";
 
-/* No comment provided by engineer. */
+/* cell text */
 "Tell your friends" = "Tell your friends";
 
 /* action sheet title */
@@ -546,6 +574,9 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 
 /* summary email */
 "The expenses list" = "The expenses list";
+
+/* alert view description */
+"The friend can't be saved because : %@" = "The friend can't be saved because : %@";
 
 /* bubble tip message (fixed part) */
 "The friend financial balance inside the group" = "The friend financial balance inside the group";
@@ -578,7 +609,7 @@ the duplicates and only keep the most recent version.";
 /* No comment provided by engineer. */
 "Total" = "Total";
 
-/* No comment provided by engineer. */
+/* alert button title */
 "Update" = "Update";
 
 /* loading label title (note: needs to be short to avoid truncating words) */
@@ -621,7 +652,7 @@ editing the event properties with the above \"Edit\" button.";
 /* summary email */
 "available on the App Store" = "available on the App Store";
 
-/* cell subtitle */
+/* cell subtitle for the average cost per friend in the event */
 "average cost per friend" = "average cost per friend";
 
 /* table view cell title */
@@ -636,7 +667,7 @@ editing the event properties with the above \"Edit\" button.";
 /* No comment provided by engineer. */
 "from a previous version of FriendCash" = "from a previous version of FriendCash";
 
-/* cell subtitle */
+/* cell subtitle for the global cost of the event */
 "global cost" = "global cost";
 
 /* summary email */
@@ -644,6 +675,9 @@ editing the event properties with the above \"Edit\" button.";
 
 /* report link */
 "http://www.friendcashapp.com/en/report/%@" = "http://www.friendcashapp.com/en/report/%@";
+
+/* action sheet option */
+"in the Address Book" = "in the Address Book";
 
 /* table view footer description */
 "involved in %d expenses" = "involved in %d expenses";
@@ -654,16 +688,13 @@ editing the event properties with the above \"Edit\" button.";
 /* loading text */
 "loading your data..." = "loading your data...";
 
-/* No comment provided by engineer. */
-"locked" = "locked";
-
 /* subtitle on the friend profile view */
 "no email address specified" = "no email address specified";
 
-/* No comment provided by engineer. */
-"owes" = "owes";
+/* action sheet option */
+"only in FriendCash" = "only in FriendCash";
 
-/* No comment provided by engineer. */
+/* when a creditor is picked in the new expense view. eg. Peter paid */
 "paid" = "paid";
 
 /* table view cell title */
@@ -680,12 +711,6 @@ editing the event properties with the above \"Edit\" button.";
 
 /* table view footer description */
 "the amounts are computing for the event \"%@\"" = "the amounts are computing for the event \"%@\"";
-
-/* No comment provided by engineer. */
-"to" = "to";
-
-/* No comment provided by engineer. */
-"unlock" = "unlock";
 
 /* No comment provided by engineer. */
 "website" = "website";

@@ -219,7 +219,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "Events synced with the Cloud" = "Events synced with the Cloud";
 
 /* alert title */
-"Exchange Rate" = "Taux de change";
+"Exchange Rate" = "Exchange Rate";
 
 /* No comment provided by engineer. */
 "Exchange rates" = "Exchange rates";
@@ -372,13 +372,13 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature0_Image_iPhone" = "NewFeature0_v2.3.png";
 
 /* New Features 0 - Subtext - v2.3 */
-"NewFeature0_Subtext" = "but when you tap on the “plus” button at the upper right corner, you’ll now be able to choose weither to create the friend in the address book or not.";
+"NewFeature0_Subtext" = "but when you tap on the “plus” button at the upper right corner, you’ll now be able to choose weither to create the friend only in FriendCash or not";
 
 /* New Features 0 - Text - v2.3 */
 "NewFeature0_Text" = "Just go the way you used to add friends";
 
 /* New Features 0 - Title - v2.3 */
-"NewFeature0_Title" = "Now add Friends without the \nAddress Book";
+"NewFeature0_Title" = "Now add friends WITHOUT the \nAddress Book";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature1_Image_iPad" = "NewFeature1_v2.2@2x.png";

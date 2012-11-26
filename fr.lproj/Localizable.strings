@@ -107,10 +107,10 @@
 "Change the Contact associated" = "Changer le Contact associé";
 
 /* button title */
-"Change the email address used" = "Change the email address used";
+"Change the email address used" = "Changer l'adresse email associée";
 
 /* No comment provided by engineer. */
-"Change the picture" = "Change the picture";
+"Change the picture" = "Changer la photo";
 
 /* sample email message to share
    sample text message */
@@ -174,7 +174,7 @@
 "Delete on the Cloud" = "Supprimer sur le Cloud";
 
 /* No comment provided by engineer. */
-"Delete the picture" = "Delete the picture";
+"Delete the picture" = "Supprimer la photo";
 
 /* loading label (note: needs to be short to avoid truncating words) */
 "Deleting event" = "Suppresion de l'événement";
@@ -203,7 +203,7 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 "Enable sound" = "Activer le son";
 
 /* alert view title */
-"Error" = "Error";
+"Error" = "Erreur";
 
 /* No comment provided by engineer. */
 "Event" = "Evénement";
@@ -339,7 +339,7 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 "Modify event" = "Modifier un événement";
 
 /* No comment provided by engineer. */
-"Modify the picture" = "Modify the picture";
+"Modify the picture" = "Modifier la photo";
 
 /* No comment provided by engineer. */
 "Move" = "Déplacer";
@@ -372,13 +372,13 @@ cet événement du Cloud ? Cette suppression laissera intacte la copie locale su
 "NewFeature0_Image_iPhone" = "NewFeature0_v2.3.png";
 
 /* New Features 0 - Subtext - v2.3 */
-"NewFeature0_Subtext" = "but when you tap on the “plus” button at the upper right corner, you’ll now be able to choose weither to create the friend in the address book or not.";
+"NewFeature0_Subtext" = "sauf que lorsque que tu tapperas sur le bouton “plus” dans le coin en haut à droite, tu pourras choisir d'ajouter l'ami seulement dans FriendCash.";
 
 /* New Features 0 - Text - v2.3 */
-"NewFeature0_Text" = "Just go the way you used to add friends";
+"NewFeature0_Text" = "Fais comme tu as l'habitude pour ajouter des amis";
 
 /* New Features 0 - Title - v2.3 */
-"NewFeature0_Title" = "Now add Friends without the \nAddress Book";
+"NewFeature0_Title" = "Ajoute des amis SANS le \nCarnet d'Adresses";
 
 /* New Features 1 - Image iPad - v2.2 */
 "NewFeature1_Image_iPad" = "NewFeature1_v2.2@2x.png";
@@ -678,7 +678,7 @@ les propriétés de l'événement grâce au bouton \"Modifier\".";
 "http://www.friendcashapp.com/en/report/%@" = "http://www.friendcashapp.com/fr/report/%@";
 
 /* action sheet option */
-"in the Address Book" = "in the Address Book";
+"in the Address Book" = "dans le Carnet d'Adresses";
 
 /* table view footer description */
 "involved in %d expenses" = "impliqué dans %d dépenses";
@@ -693,7 +693,7 @@ les propriétés de l'événement grâce au bouton \"Modifier\".";
 "no email address specified" = "pas d'adresse email spécifiée";
 
 /* action sheet option */
-"only in FriendCash" = "only in FriendCash";
+"only in FriendCash" = "seulement dans FriendCash";
 
 /* when a creditor is picked in the new expense view. eg. Peter paid */
 "paid" = "a payé";

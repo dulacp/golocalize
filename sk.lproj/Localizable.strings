@@ -1,0 +1,730 @@
+/* use in the html expense summary for 'Pierre (2)' */
+"%@ (%@), " = "%1$@ (%2$@), ";
+
+/* Generated Report Link email subject */
+"%@ - Full Report" = "%@ - Celkový výpis";
+
+/* Summary email subject */
+"%@ - Summary Email" = "%@ - Sumár";
+
+/* alert message (for the currency exchange rate) */
+"%@ = ? %@" = "%1$@ = ? %2$@";
+
+/* email report main title */
+"%@ Report" = "%@ Výpis";
+
+/* use in the html summary */
+"%@ gave back %@ to %@" = "%1$@ vrátil priateľovi %2$@ sumu %3$@";
+
+/* summary email */
+"%@ owes %@ to %@" = "%1$@ dlží %3$@ sumu %2$@";
+
+/* table view cell subtitle */
+"%@ paid" = "zaplatil %@";
+
+/* use in the html summary */
+"%@ paid %@ for %@" = "<b>%1$@ zaplatil %2$@</b> za %3$@";
+
+/* table view cell subtitle */
+"%@ paid back" = "%@ vrátil späť";
+
+/* action sheet title */
+"%@ paid back %@ ?" = "%1$@ vrátil späť %2$@ ?";
+
+/* summary email main title */
+"%@ summary" = "%@ sumár";
+
+/* table view cell title */
+"%d archived events" = "%d uložené udalosti";
+
+/* No comment provided by engineer. */
+"%d events" = "%d udalostí";
+
+/* No comment provided by engineer. */
+"%d friends" = "%d priateľov";
+
+/* counter of remaining steps (eg '1 over 3') */
+"%d over %d" = "%d z %d";
+
+/* alert description */
+"%d shared event(s) have been found. Do you want to move it(s) to the App Folder ?" = "Našlo sa %d zdieľaných udalostí. Chceś ich presunúť do adresára tejto aplikácie?";
+
+/* alert description (for currency exchange rates */
+"? %@ = %@" = "? %1$@ = %2$@";
+
+/* navigation title */
+"About" = "O aplikácii";
+
+/* No comment provided by engineer. */
+"AccountNeededDescription" = "Na aktiváciu tejto funkcie je potrebný FriendCash účet";
+
+/* No comment provided by engineer. */
+"AccountNeededTitle" = "Účet";
+
+/* button title */
+"Add %d friend" = "Pridať %d priateľa";
+
+/* button title */
+"Add %d friends" = "Pridať %d priateľov";
+
+/* No comment provided by engineer. */
+"Add a new expense just right here" = "Pridať novú platbu stlačením tu";
+
+/* button title */
+"Add an event" = "Pridať udalosť";
+
+/* button title */
+"Add an event to the Cloud" = "Zálohovať udalosť na Cloud";
+
+/* button title */
+"Add friends from Contacts" = "Pridať priateľov z Telefónneho zoznamu";
+
+/* No comment provided by engineer. */
+"All events" = "Všetky udalosti";
+
+/* bubble tip message */
+"All the expenses linked to the event %@ will be here" = "Všetky platby z udalosti %@ budú na tomto mieste";
+
+/* No comment provided by engineer. */
+"Archive this event" = "Zálohovať udalosť";
+
+/* alert description */
+"AskForEventDeleteConfirmationDescription" = "Pozor, táto operácia je nevratná. Ste si istí, že chcete zmazať túto udalosť ?";
+
+/* alert title */
+"AskForEventDeleteConfirmationTitle" = "Zmazať udalosť";
+
+/* No comment provided by engineer. */
+"Auto backup" = "Automatická záloha";
+
+/* alert description */
+"Before adding an expense you actually need to add some friends" = "Pred pridaním udalosti musíte najskôr pridať priateľov";
+
+/* No comment provided by engineer. */
+"Cancel" = "Zrušiť";
+
+/* button title */
+"Change the Contact associated" = "Odstrániť pripojený kontakt";
+
+/* button title */
+"Change the email address used" = "Zmeniť e-mailovú adresu";
+
+/* No comment provided by engineer. */
+"Change the picture" = "Zmeniť obrázok";
+
+/* sample email message to share
+   sample text message */
+"Check out the new version of the iPhone app named FriendCash. Spread the word!" = "Vyskúšajte novú verziu aplikácie pe iPhone FriendCash a odporuč ju svojim známym!";
+
+/* navigation title */
+"Cloud" = "Cloud";
+
+/* table view footer description that define briefly what can be done with the cloud feature */
+"CloudSumup" = "Zálohujte a synchronizujte svoje udalosti medzi rôznymi zariadeniami pomocou Dropboxu. Označ, ktoré udalosti chceš v cloude.";
+
+
+/* placeholder text, just before enabling the cloud feature */
+"CloudTeaserSentence" = "Zálohujte a synchronizujte svoje udalosti medzi rôznymi zariadeniami. \n\n Stačí Ti na to účet na Dropboxe.";
+
+/* No comment provided by engineer. */
+"Comment" = "Komentovať";
+
+/* No comment provided by engineer. */
+"Configure" = "Konfigurovať";
+
+/* No comment provided by engineer. */
+"Confirm" = "Potvrdiť";
+
+/* alert title */
+"Conflict files on Dropbox" = "konfilkt medzi súbormi na Dropboxe";
+
+/* button title */
+"Connect to Dropbox" = "Pripojiť k Dropbox-u";
+
+/* table view cell title */
+"Connected to Dropbox" = "Dropbox pripojený";
+
+/* No comment provided by engineer. */
+"Continue" = "Pokračovať";
+
+/* No comment provided by engineer. */
+"Copy Link" = "Kopírovať linku";
+
+/* navigation title */
+"Currencies" = "Meny";
+
+/* No comment provided by engineer. */
+"Currency" = "Mena";
+
+/* alert title */
+"Data from v1" = "Dáta z v1";
+
+/* alert title */
+"Data import" = "Import dát";
+
+/* table view section title */
+"Dates" = "Dátumy";
+
+/* No comment provided by engineer. */
+"Decimal precision" = "Presnosť na desatinné miesta";
+
+/* alert title */
+"Delete" = "Zmazať";
+
+/* button title */
+"Delete on the Cloud" = "Zmazať zálohu na Cloud-e";
+
+/* No comment provided by engineer. */
+"Delete the picture" = "Zmazať obrázok";
+
+/* loading label (note: needs to be short to avoid truncating words) */
+"Deleting event" = "Zmazať udalosť";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Zrušiť";
+
+/* alert description */
+"Do you really want to delete the event \
+from the Cloud ? This operation will leave intact the local copy on your device." = "Skutočne chcete odstrániť udalosť \
+z clodu? Táto operácia neovplyvní lokálnu kópiu dát na zariadení.";
+
+
+/* alert description */
+"Do you really want to import the data found from a previous version ?" = "Skutočne chcete načítať dáta z predchádzajúcej verzie aplikácie?";
+
+/* action sheet title */
+"Do you want to remove it from the Cloud too ?" = "Chcete to taktiež zmazať aj z cloudu ?";
+
+/* loading label title (note: needs to be short to avoid truncating words */
+"Downloading..." = "Sťahujem...";
+
+/* alert title */
+"Dropbox disconnected" = "Dropbox odpojený";
+
+/* No comment provided by engineer. */
+"Enable sound" = "Povoliť zvuky";
+
+/* alert view title */
+"Error" = "Chyba";
+
+/* No comment provided by engineer. */
+"Event" = "Udalosť";
+
+/* button title */
+"Event statistics" = "Štatistiky o udalosti";
+
+/* navigation title
+   table view section title */
+"Events" = "Udalosti";
+
+/* table view header title (note: needs to be not too long to stay on one line on the iPhone) */
+"Events synced with the Cloud" = "Udalosti boli zosynchronizované s cloudom";
+
+/* alert title */
+"Exchange Rate" = "Výmenný kurz";
+
+/* No comment provided by engineer. */
+"Exchange rates" = "Výmenné kurzy";
+
+/* No comment provided by engineer. */
+"Expense" = "Platba";
+
+/* table view section title */
+"Expenses" = "Platby";
+
+/* table view section title */
+"Figures" = "Obrázky";
+
+/* bubble tip message */
+"First thing to do, add an event!" = "Najprv pridajte udalosť!";
+
+/* bubble tip message */
+"First you need to add the friends involved in your event %@" = "Najprv musíte pridať priateľov, ktorí sa zúčastnli udalosti %@";
+
+/* user can precise the reason of the expense */
+"For what ?" = "Za čo ?";
+
+/* No comment provided by engineer. */
+"Friend" = "Priateľ";
+
+/* summary email */
+"FriendCash for iPhone and iPod touch" = "Aplikácia FriendCash pre iPhone a iPad";
+
+/* No comment provided by engineer. */
+"FriendDemoModuleIntermediateAmountTableView" = "Zoznam všetkých podlžností pre výpočet sumy";
+
+/* bubble tip message */
+"FriendDemoModulePersonalCost" = "Doteraz vyšla táto udalosť %1$@ na %2$@";
+
+/* navigation title */
+"Friends" = "Priatelia";
+
+/* button title */
+"Generate full report" = "vygenerovať sumár";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Generating Report" = "Generujem...";
+
+/* button title */
+"Get an event from the Cloud" = "Stiahnuť udalosť z cloudu";
+
+/* cell text */
+"Give feedback" = "Ohodnotiť aplikáciu";
+
+/* table view footer description */
+"Give the app a five star review on the App Store to help us adding more free features" = "Páči sa Vám táto aplikácia_ ohodnoťte ju 5 hviezdičkami na AppStore, aby sme pridali viac funkcií.";
+
+
+/* cell text */
+"Help" = "Pomoc";
+
+/* bubble tip message */
+"Here %@ is balanced with the group" = "Tu je stav účtu %@ voči skupine";
+
+/* bubble tip message */
+"Here %@ owes %@ to the group" = "Tu %1$@ dlží skupine %2$@";
+
+/* bubble tip message */
+"Here the group owes %@ to %@" = "Tu skupina dlží %1$@ priateľovi %2$@";
+
+/* bubble tip message */
+"Here you will be able to know what people owes each other to balance the group" = "Tu uvidíte, kto komu dlží, aby sa vyrovnali dlhy ";
+
+
+/* user specify the amount of the expense */
+"How much ?" = "Koľko ?";
+
+/* summary email */
+"How to balance ?" = "Ako vyrovnať účet ?";
+
+/* No comment provided by engineer. */
+"ITunesURL" = "http://www.friendcashapp.com/en/appstore";
+
+/* rate alert description */
+"If you enjoy using %@, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Ak radi používate %@, mohli by ste to, prosím, ohodnotiť? Nezaberie to viac ako minútu. Ďakujeme za podporu!";
+
+
+/* No comment provided by engineer. */
+"Import your data" = "Importovať dáta";
+
+/* No comment provided by engineer. */
+"Import your iCloud data" = "Importovať dáta z iCloudu";
+
+/* user can specify in which event the expense will be added (note that it has to be short) */
+"In event ?" = "Kde ?";
+
+/* email subject */
+"Invitation to use the iPhone app FriendCash" = "Pozvánka na používanie iPhone aplikácie FriendCash";
+
+/* destructive button title */
+"Keep on the Cloud" = "Nechať v cloude";
+
+/* button title */
+"Link to one of your Contact" = "Pripojiť k jednému z kontaktov";
+
+/* bubble tip message */
+"List of expenses in which %@ is implied." = "Zoznam výdavkov, ktoré sa týkajú priateľa %@.";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Loading from Dropbox" = "Načítavam dáta z Dropboxu";
+
+/* Loading Status */
+"Loading..." = "Načítavam...";
+
+/* No comment provided by engineer. */
+"Mail Link to this Page" = "Poslať odkaz na túto stránku e-mailom";
+
+/* notification title */
+"Missing currency rates" = "Výmenné kurzy nedostupné";
+
+/* alert title */
+"Missing file..." = "Chýbajúci súbor...";
+
+/* No comment provided by engineer. */
+"Modify event" = "Zmeniť udalosť";
+
+/* No comment provided by engineer. */
+"Modify the picture" = "Zmeniť obrázok";
+
+/* No comment provided by engineer. */
+"Move" = "Presunúť";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Moving files" = "Presúvam súbory";
+
+/* alert title */
+"Need friends..." = "Potrebujete priateľov...";
+
+/* alert title */
+"Need you for that" = "Potrebujú vás na to";
+
+/* No comment provided by engineer. */
+"New Event" = "Nová udalosť";
+
+/* No comment provided by engineer. */
+"New Expense" = "Nová platba";
+
+/* No comment provided by engineer. */
+"New event" = "Nová udalosť";
+
+/* cell text */
+"New features tour" = "Zoznámiť sa s novými funkciami";
+
+/* New Features 0 - Image iPad - v2.3 */
+"NewFeature0_Image_iPad" = "NewFeature0_v2.3@2x.png";
+
+/* New Features 0 - Image iPhone - v2.3 */
+"NewFeature0_Image_iPhone" = "NewFeature0_v2.3.png";
+
+/* New Features 0 - Subtext - v2.3 */
+"NewFeature0_Subtext" = "ale keď kliknete na tlačidlo + v pravom hornom rohu tak si budete môcť vybrať, či chcete vytvoriť priateľa iba v rámci aplikácie, alebo nie ";
+
+/* New Features 0 - Text - v2.3 */
+"NewFeature0_Text" = "Pokračujte v tom, ako ste zvykli pridávať priateľov";
+
+/* New Features 0 - Title - v2.3 */
+"NewFeature0_Title" = "Teraz môžete pridávať priateľov BEZ TOHO,\naby boli v Telefónnom zozname";
+
+/* New Features 1 - Image iPad - v2.2 */
+"NewFeature1_Image_iPad" = "NewFeature1_v2.2@2x.png";
+
+/* New Features 1 - Image iPhone - v2.2 */
+"NewFeature1_Image_iPhone" = "NewFeature1_v2.2.png";
+
+/* New Features 1 - Subtext - v2.2 */
+"NewFeature1_Subtext" = "Uložte udalosť na Dropbox a zdieľajte adresár ako hocijaký iný zdieľaný Dropbox adresár";
+
+
+/* New Features 1 - Text - v2.2 */
+"NewFeature1_Text" = "Teraz budete môcť zdieľať svoje udalosti s hocikým";
+
+/* New Features 1 - Title - v2.2 */
+"NewFeature1_Title" = "VEĽKÁ novinka vo FriendCash ! \n Zdieľanie pomocou Dropboxu.";
+
+/* New Features 1 - Image iPad - v2.2 */
+"NewFeature2_Image_iPad" = "NewFeature2_v2.2@2x.png";
+
+/* New Features 1 - Image iPhone - v2.2 */
+"NewFeature2_Image_iPhone" = "NewFeature2_v2.2.png";
+
+/* New Features 2 - Subtext - v2.2 */
+"NewFeature2_Subtext" = "Aplikácia vygeneruje náhodnú url, ktorú možete zdieľať e-mailom. Odteraz každý uvidí všetky výdavky, aj ak nemá zariadenie s iOS.";
+
+
+/* New Features 2 - Text - v2.2 */
+"NewFeature2_Text" = "Jedno kliknutie na \"Vygenerovať zhrnutie\"";
+
+/* New Features 2 - Title - v2.2 */
+"NewFeature2_Title" = "Nové zdieľanie na webe !";
+
+/* New Features 1 - Image iPad - v2.2 */
+"NewFeature3_Image_iPad" = "NewFeature3_v2.2@2x.png";
+
+/* New Features 1 - Image iPhone - v2.2 */
+"NewFeature3_Image_iPhone" = "NewFeature3_v2.2.png";
+
+/* New Features 3 - Subtext - v2.2 */
+"NewFeature3_Subtext" = "Ak chcete novú funkciu, alebo nahlásť chybu... alebo iba pozdraviť. Prečítame ich všetky.";
+
+
+/* New Features 3 - Text - v2.2 */
+"NewFeature3_Text" = "Jediná možnosť, ako sa dozvedieť, čo si myslíte.";
+
+/* New Features 3 - Title - v2.2 */
+"NewFeature3_Title" = "Ohodnotiť :)";
+
+/* button title */
+"Next" = "Ďalej";
+
+/* No comment provided by engineer. */
+"No" = "Nie";
+
+/* placeholder in tableview */
+"No Friend" = "Žiadni priatelia";
+
+/* used when there is no name set for an event */
+"No name" = "Udalosť nemá meno";
+
+/* rate button title (never bother the user again) */
+"No, thanks" = "Nie, 'dakujem";
+
+/* alert description */
+"NotificationMissingEmailAddressDescription" = "Niektoré e-mailové adresy chýbajú, a tak nie všetci úćastníci dostanú správu.";
+
+/* alert title */
+"NotificationMissingEmailAddressTitle" = "Sumár";
+
+/* alert description */
+"NotificationPersistenceStoreCorruptedDescription" = "Vyzerá, že dáta sú poškodené. prosím, zatvorte túto aplikáciu stlačením Home button a skúste reštartovať zariadenie. Ak to napriek tomu nebude fungovať, zmažte túto aplikáciu, nainštalujte ju znovu a obnovte dáta pomocou Dropboxu.";
+
+
+/* alert title */
+"NotificationPersistenceStoreCorruptedTitle" = "Ospravedlňujeme sa";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Otvoriť v Safari";
+
+/* No comment provided by engineer. */
+"Operation Failed" = "Operácia zlyhala";
+
+/* alert title */
+"Partial reimbursement" = "Čiastočné vyrovnanie";
+
+/* No comment provided by engineer. */
+"Partially" = "Čiastočne";
+
+/* No comment provided by engineer. */
+"Pay back" = "Vrátiť";
+
+/* No comment provided by engineer. */
+"Pick a friend" = "Vybrať priateľa";
+
+/* navigation title */
+"Pick friends" = "Vybrať priateľov";
+
+/* table view footer description */
+"Pick the number of decimal you want the app to show. This does not affect the calculations which are done by floating point for improved accuracy." = "Vyberte počet zobrazených desatinných miest. To však neovplyvní výpočty, keďže aplikácia používa pohyblivú desatinnú čiarku na zvýšenie presnosti.";
+
+/* navigation title */
+"Precision" = "Presnosť";
+
+/* navigation title */
+"Prefs" = "Nastavenia";
+
+/* button title */
+"Previous" = "Predchádzajúci";
+
+/* Pull down to refresh status */
+"Pull down to refresh..." = "Pre aktualizáciu potiahni nadol...";
+
+/* rate alert title */
+"Rate %@" = "Ohodnotiť %@";
+
+/* rate button (take the user to the app store page) */
+"Rate now" = "Ohodnotiť ihne'd";
+
+/* cell text */
+"Rate the app" = "Ohodnotiť aplikáciu";
+
+/* alert description */
+"ReachabilityDescription" = "ReachabilityDescription";
+
+/* alert description */
+"ReachabilityServiceDescription" = "ReachabilityServiceDescription";
+
+/* alert title */
+"ReachabilityServiceTitle" = "ReachabilityServiceTitle";
+
+/* alert title */
+"ReachabilityTitle" = "ReachabilityTitle";
+
+/* Release to refresh status */
+"Release to refresh..." = "Pre aktualizáciu pusti...";
+
+/* rate button title (reminds the user sometimes later) */
+"Remind me later" = "Pripomenúť neskôr";
+
+/* cell text */
+"Request a feature" = "Vyžiadať si npvú funkciu";
+
+/* alert description */
+"Sadely, your account is not linked anymore. Enable it again please :)" = "Nanešťastie, váš účet už nie je naviazaný na túto aplikáciu. Prosím, povoľte ju znova :)";
+
+/* No comment provided by engineer. */
+"Save" = "Uložiť";
+
+/* placeholder */
+"Search" = "Hľadať";
+
+/* No comment provided by engineer. */
+"Search a currency" = "Hľadať menu";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Searching for shared events" = "Hľadám zdieľané udalosti";
+
+/* button title */
+"Send the summary by email" = "Poslať sumár cez e-mail";
+
+/* alert description */
+"Set how much %@ paid back %@" = "Zadajte, koľko %1$@ vrátil %2$@";
+
+/* alert title */
+"Shared events" = "Zdieľané udalosti";
+
+/* No comment provided by engineer. */
+"Show all contacts" = "Zobraziť Telefónny zoznam";
+
+/* No comment provided by engineer. */
+"Show only favorites" = "Zobraziť iba obľúbené kontakty";
+
+/* alert description */
+"Sorry but we can't find any data from previous version of FriendCash..." = "Prepáčte, ale nenaśli sa žiadne dáta z predchádzajúcich verzií aplikácie FriendCash...";
+
+/* No comment provided by engineer. */
+"Statistics" = "Štatistiky";
+
+/* table view section title */
+"Sum up" = "Sumár";
+
+/* No comment provided by engineer. */
+"Tell by SMS" = "Povedzte pomocou SMS";
+
+/* No comment provided by engineer. */
+"Tell by email" = "Povedzte pomocou e-mailu";
+
+/* cell text */
+"Tell your friends" = "Povedzte svojim priateľom";
+
+/* action sheet title */
+"Tell your friends about FriendCash" = "Povedzte svojim priateľom o aplikácii FriendCash";
+
+/* summary email */
+"The expenses list" = "Zoznam výdavkov";
+
+/* alert view description */
+"The friend can't be saved because : %@" = "Nemôžem uložiť priateľa, pretože : %@";
+
+/* bubble tip message (fixed part) */
+"The friend financial balance inside the group" = "Stav financií priateľa v rámci skupiny";
+
+/* No comment provided by engineer. */
+"The operation did not complete successfully: %@" = "Operácia sa neukončila úspešne: %@";
+
+/* report link email */
+"The report is available online at the url" = "Sumár je k dispozícii iba na stránke";
+
+/* bubble tip message */
+"Then you'll be able to add an expense from everywhere thanks to this button" = "Potom budete môcť pridat platbu z hociktorej obrazovky vďaka tomuto tlačidlu";
+
+
+/* alert description */
+"There is more than one file for the hash '%@'. \
+The sync is suspended until the conflict is resolved Please use the search field on your Dropbox web page to find \
+the duplicates and only keep the most recent version." = "Existuje viac ako jeden súbor pre hash '%@'. \
+Synchronizácia bola pozastavená, pokiaľ sa nevyrieši konfilkt.Prosím, použite políčko Search na stránke Dropboxu  \
+na nájdenie duplicít a ponechajte iba aktuálnu verziu.";
+
+/* alert description */
+"There is no file compatible with this version of FriendCash in the directory '%@'" = "V adresári '%@' sa nenachádza súbor kompatibilný s touto verziou aplikácie.";
+
+/* No comment provided by engineer. */
+"Title" = "Nadpis";
+
+/* No comment provided by engineer. */
+"Today" = "Dnes";
+
+/* No comment provided by engineer. */
+"Total" = "Celkom";
+
+/* alert button title */
+"Update" = "Aktualizovať";
+
+/* loading label title (note: needs to be short to avoid truncating words) */
+"Uploading..." = "Aktualizujem...";
+
+/* alert description */
+"We detect some data from FriendCash v1 do you want to import these data" = "Našli sme dáta z FriendCash v1. Chete ich importovať?";
+
+/* notification description */
+"We did not found the exchange rates for some of the currencies \
+you are using in this event. Please enter the currency rate by \
+editing the event properties with the above \"Edit\" button." = "Nenašli sme výmenné kurzy pre niektoré meny, \
+ktoré používate v tejto udalosti. Prosím, zadajte kurz \
+upravením vlastnotí udalosti stlačením tlačidla \"Upraviť\".";
+
+/* user can modify the date of the expense */
+"When ?" = "Kde ?";
+
+/* user can choose who paid the expense */
+"Who paid ?" = "Kto platil ?";
+
+/* No comment provided by engineer. */
+"Yes" = "Áno";
+
+/* No comment provided by engineer. */
+"Yesterday" = "Včera";
+
+/* alert description */
+"You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "Musíte nakonfigurovať existujúci email na tomto zariadení. Potom bude všetko fungovať !";
+
+/* No comment provided by engineer. */
+"You're receiving this email because you were listed as a participant of an event by one of your friend." = "Tento email ste dostali, pretože Váš priateľ označil, že ste sa zúčastnili jednej z jeho udalostí.";
+
+/* No comment provided by engineer. */
+"already added" = "už pridané";
+
+/* table view cell detail text */
+"already synced" = "už zosynchronizované";
+
+/* summary email */
+"available on the App Store" = "Aplikácia je dostupná v App Store";
+
+/* cell subtitle for the average cost per friend in the event */
+"average cost per friend" = "priemerná platba na osobu";
+
+/* table view cell title */
+"cash balance" = "stav financií";
+
+/* report link */
+"email sent from FriendCash" = "email z aplikácie FriendCash";
+
+/* cell subtitle */
+"first expense" = "prvá platba";
+
+/* No comment provided by engineer. */
+"from a previous version of FriendCash" = "z predchádzajúcej verzie aplikácie FriendCash";
+
+/* cell subtitle for the global cost of the event */
+"global cost" = "platby celkom";
+
+/* summary email */
+"have participated to the event %@" = "%@ sa zúčastnil udalosti";
+
+/* report link */
+"http://www.friendcashapp.com/en/report/%@" = "http://www.friendcashapp.com/en/report/%@";
+
+/* action sheet option */
+"in the Address Book" = "v telefónnom zozname";
+
+/* table view footer description */
+"involved in %d expenses" = "týka sa ho %d výdavkov";
+
+/* cell subtitle */
+"last expense" = "posledný výdavok";
+
+/* loading text */
+"loading your data..." = "načítavam...";
+
+/* subtitle on the friend profile view */
+"no email address specified" = "e-mail nie je špecifikovaný";
+
+/* action sheet option */
+"only in FriendCash" = "iba v aplikácii FriendCash";
+
+/* when a creditor is picked in the new expense view. eg. Peter paid */
+"paid" = "zaplatil";
+
+/* table view cell title */
+"paid by %@" = "zaplatil %@";
+
+/* table view cell title */
+"personal cost" = "personal cost";
+
+/* No comment provided by engineer. */
+"pick a friend" = "vyber si priateľov";
+
+/* table view cell subtitle */
+"pick an event" = "vyber si udalosť";
+
+/* table view footer description */
+"the amounts are computing for the event \"%@\"" = "vypočítavam sumy pre udalosť \"%@\"";
+
+/* No comment provided by engineer. */
+"website" = "stránka";
+
+/* placeholder text for the note associated to an expense */
+"write a short note" = "napíš krátku poznámku";
+

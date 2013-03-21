@@ -417,7 +417,7 @@ from the Cloud ? This operation will leave intact the local copy on your device.
 "NewFeature3_Image_iPhone" = "NewFeature3_v2.2.png";
 
 /* New Features 3 - Subtext - v2.2 */
-"NewFeature3_Subtext" = "You want a specific feature, you want to report a bug... or juste to say Hi. I’ll read them all.";
+"NewFeature3_Subtext" = "You want a specific feature, you want to report a bug... or just to say Hi. I’ll read them all.";
 
 /* New Features 3 - Text - v2.2 */
 "NewFeature3_Text" = "The only way to know how you feel";

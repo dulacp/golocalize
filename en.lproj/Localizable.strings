@@ -638,7 +638,7 @@ editing the event properties with the above \"Edit\" button.";
 "Yesterday" = "Yesterday";
 
 /* alert description */
-"You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !";
+"You need to configure a valid email account on your device to use this feature. Then everything will works like a charm !" = "You need to configure a valid email account on your device to use this feature. Then everything will work like a charm !";
 
 /* No comment provided by engineer. */
 "You're receiving this email because you were listed as a participant of an event by one of your friend." = "You're receiving this email because you were listed as a participant of an event by one of your friend.";
